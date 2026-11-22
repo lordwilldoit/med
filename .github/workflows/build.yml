@@ -1,0 +1,62 @@
+name: Build IPA
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  build:
+    runs-on: macos-15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install XcodeGen
+        run: brew install xcodegen
+
+      - name: Generate Xcode project
+        run: xcodegen generate
+
+      - name: Run calculation tests
+        run: |
+          UDID=$(xcrun simctl list devices available -j | python3 -c '
+          import json, sys
+          devs = json.load(sys.stdin)["devices"]
+          print(next(d["udid"] for rt, ds in devs.items() if "iOS" in rt for d in ds if d["name"].startswith("iPhone")))
+          ')
+          xcodebuild test -project DoseCalc.xcodeproj -scheme DoseCalc \
+            -destination "id=$UDID" CODE_SIGNING_ALLOWED=NO | tail -n 60
+
+      - name: Build app (unsigned)
+        run: |
+          xcodebuild build -project DoseCalc.xcodeproj -scheme DoseCalc \
+            -configuration Release -sdk iphoneos -destination 'generic/platform=iOS' \
+            -derivedDataPath build \
+            CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO CODE_SIGN_IDENTITY="" | tail -n 40
+
+      - name: Package IPA
+        run: |
+          mkdir -p Payload
+          cp -R build/Build/Products/Release-iphoneos/DoseCalc.app Payload/
+          zip -qry DoseCalc.ipa Payload
+          ls -lh DoseCalc.ipa
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: DoseCalc-ipa
+          path: DoseCalc.ipa
+
+      - name: Publish release (direct download link)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "build-${{ github.run_number }}" DoseCalc.ipa \
+            --title "DoseCalc build ${{ github.run_number }}" \
+            --notes "Unsigned IPA — sideload with your usual tool." --latest

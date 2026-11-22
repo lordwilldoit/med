@@ -1,0 +1,25 @@
+# DoseCalc
+
+Bilingual (FR/EN) medication dose calculator for iPhone, built for nursing-assistant stage practice.
+
+**Calculators**
+- **Comprimés / liquides** — (dose prescrite ÷ dose disponible) × quantité, with g/mg/mcg conversion and checks for >3 tablets or tablets that can't be halved
+- **Poids** — mg/kg dose per dose, per day, mL from a concentration, and a max-dose check (kg or lb)
+- **IV** — mL/h for a pump, gtt/min with a 10/15/20/60 drop factor
+- **Conversions** — g↔mg↔mcg, L↔mL, lb↔kg, °F↔°C
+
+Every result shows the working so you can check it by hand.
+
+> Study and double-check aid only. Always verify against the order, the facility protocol and your nurse or instructor before giving any medication.
+
+## Getting the IPA
+
+Every push to `main` runs **Actions → Build IPA**, which runs the tests and publishes an unsigned `DoseCalc.ipa` under **Releases**. Download it and sideload it like any other unsigned IPA (your sideloading tool signs it).
+
+## Building locally (Mac)
+
+```sh
+brew install xcodegen
+xcodegen generate
+open DoseCalc.xcodeproj
+```

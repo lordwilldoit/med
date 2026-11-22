@@ -1,0 +1,6 @@
+DoseCalc.xcodeproj/
+build/
+Payload/
+*.ipa
+.DS_Store
+xcuserdata/
