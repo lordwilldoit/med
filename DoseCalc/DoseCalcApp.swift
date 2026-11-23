@@ -13,6 +13,8 @@ struct ContentView: View {
 
     var body: some View {
         TabView {
+            DrugListView(lang: lang)
+                .tabItem { Label(lang.t("Médicaments", "Meds"), systemImage: "book.closed") }
             OnHandView(lang: lang)
                 .tabItem { Label(lang.t("Comprimés", "Tablets"), systemImage: "pills") }
             WeightView(lang: lang)

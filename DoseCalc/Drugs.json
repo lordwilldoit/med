@@ -1,0 +1,4495 @@
+[
+ {
+  "id": "amlodipine",
+  "category": "cardio",
+  "name": {
+   "fr": "Amlodipine",
+   "en": "Amlodipine"
+  },
+  "brands": [
+   "Norvasc"
+  ],
+  "drugClass": {
+   "fr": "Bloqueur des canaux calciques (BCC)",
+   "en": "Calcium channel blocker (CCB)"
+  },
+  "why": {
+   "fr": [
+    "Hypertension artérielle (HTA)",
+    "Angine de poitrine"
+   ],
+   "en": [
+    "High blood pressure",
+    "Angina"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Œdème des chevilles",
+    "Maux de tête",
+    "Bouffées de chaleur",
+    "Étourdissements",
+    "Fatigue"
+   ],
+   "en": [
+    "Ankle swelling",
+    "Headache",
+    "Flushing",
+    "Dizziness",
+    "Fatigue"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Prendre la TA avant",
+    "Hypotension orthostatique : se lever lentement"
+   ],
+   "en": [
+    "Check BP before giving",
+    "Orthostatic hypotension: get up slowly"
+   ]
+  }
+ },
+ {
+  "id": "diltiazem",
+  "category": "cardio",
+  "name": {
+   "fr": "Diltiazem",
+   "en": "Diltiazem"
+  },
+  "brands": [
+   "Cardizem",
+   "Tiazac"
+  ],
+  "drugClass": {
+   "fr": "Bloqueur des canaux calciques (non dihydropyridine)",
+   "en": "Calcium channel blocker (non-dihydropyridine)"
+  },
+  "why": {
+   "fr": [
+    "HTA",
+    "Angine",
+    "Fibrillation auriculaire (contrôle de la fréquence)"
+   ],
+   "en": [
+    "High blood pressure",
+    "Angina",
+    "Atrial fibrillation (rate control)"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Bradycardie",
+    "Hypotension",
+    "Œdème",
+    "Maux de tête",
+    "Constipation"
+   ],
+   "en": [
+    "Slow heart rate",
+    "Low blood pressure",
+    "Swelling",
+    "Headache",
+    "Constipation"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Prendre FC et TA avant",
+    "Ne pas écraser les formes à libération prolongée"
+   ],
+   "en": [
+    "Check HR and BP before giving",
+    "Don't crush extended-release forms"
+   ]
+  }
+ },
+ {
+  "id": "ramipril",
+  "category": "cardio",
+  "name": {
+   "fr": "Ramipril",
+   "en": "Ramipril"
+  },
+  "brands": [
+   "Altace"
+  ],
+  "drugClass": {
+   "fr": "Inhibiteur de l'enzyme de conversion (IECA)",
+   "en": "ACE inhibitor"
+  },
+  "why": {
+   "fr": [
+    "HTA",
+    "Insuffisance cardiaque",
+    "Après un infarctus",
+    "Protection des reins (diabète)"
+   ],
+   "en": [
+    "High blood pressure",
+    "Heart failure",
+    "After a heart attack",
+    "Kidney protection (diabetes)"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Toux sèche",
+    "Étourdissements",
+    "Hyperkaliémie (K+ élevé)",
+    "Hypotension",
+    "Angiœdème (rare, urgence)"
+   ],
+   "en": [
+    "Dry cough",
+    "Dizziness",
+    "High potassium",
+    "Low blood pressure",
+    "Angioedema (rare, emergency)"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "TA, potassium et créatinine",
+    "Enflure du visage, des lèvres ou de la langue : aviser immédiatement"
+   ],
+   "en": [
+    "BP, potassium and creatinine",
+    "Swelling of face, lips or tongue: report immediately"
+   ]
+  }
+ },
+ {
+  "id": "perindopril",
+  "category": "cardio",
+  "name": {
+   "fr": "Périndopril",
+   "en": "Perindopril"
+  },
+  "brands": [
+   "Coversyl"
+  ],
+  "drugClass": {
+   "fr": "Inhibiteur de l'enzyme de conversion (IECA)",
+   "en": "ACE inhibitor"
+  },
+  "why": {
+   "fr": [
+    "HTA",
+    "Maladie coronarienne",
+    "Insuffisance cardiaque"
+   ],
+   "en": [
+    "High blood pressure",
+    "Coronary artery disease",
+    "Heart failure"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Toux sèche",
+    "Étourdissements",
+    "Hyperkaliémie",
+    "Hypotension",
+    "Angiœdème (rare)"
+   ],
+   "en": [
+    "Dry cough",
+    "Dizziness",
+    "High potassium",
+    "Low blood pressure",
+    "Angioedema (rare)"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "TA, potassium et créatinine"
+   ],
+   "en": [
+    "BP, potassium and creatinine"
+   ]
+  }
+ },
+ {
+  "id": "losartan",
+  "category": "cardio",
+  "name": {
+   "fr": "Losartan",
+   "en": "Losartan"
+  },
+  "brands": [
+   "Cozaar"
+  ],
+  "drugClass": {
+   "fr": "Antagoniste des récepteurs de l'angiotensine (ARA)",
+   "en": "Angiotensin receptor blocker (ARB)"
+  },
+  "why": {
+   "fr": [
+    "HTA",
+    "Insuffisance cardiaque",
+    "Protection des reins (diabète)"
+   ],
+   "en": [
+    "High blood pressure",
+    "Heart failure",
+    "Kidney protection (diabetes)"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Étourdissements",
+    "Hyperkaliémie",
+    "Hypotension",
+    "Fatigue"
+   ],
+   "en": [
+    "Dizziness",
+    "High potassium",
+    "Low blood pressure",
+    "Fatigue"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "TA, potassium et créatinine",
+    "Moins de toux qu'avec un IECA"
+   ],
+   "en": [
+    "BP, potassium and creatinine",
+    "Less cough than ACE inhibitors"
+   ]
+  }
+ },
+ {
+  "id": "metoprolol",
+  "category": "cardio",
+  "name": {
+   "fr": "Métoprolol",
+   "en": "Metoprolol"
+  },
+  "brands": [
+   "Lopresor",
+   "Betaloc"
+  ],
+  "drugClass": {
+   "fr": "Bêtabloquant (cardiosélectif)",
+   "en": "Beta blocker (cardioselective)"
+  },
+  "why": {
+   "fr": [
+    "HTA",
+    "Angine",
+    "Après un infarctus",
+    "Fibrillation auriculaire (contrôle de la fréquence)",
+    "Insuffisance cardiaque"
+   ],
+   "en": [
+    "High blood pressure",
+    "Angina",
+    "After a heart attack",
+    "Atrial fibrillation (rate control)",
+    "Heart failure"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Bradycardie",
+    "Fatigue",
+    "Étourdissements",
+    "Hypotension",
+    "Mains et pieds froids"
+   ],
+   "en": [
+    "Slow heart rate",
+    "Fatigue",
+    "Dizziness",
+    "Low blood pressure",
+    "Cold hands and feet"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Prendre FC et TA avant; retenir et aviser selon les paramètres de l'ordonnance",
+    "Ne pas cesser brusquement",
+    "Peut masquer les signes d'hypoglycémie"
+   ],
+   "en": [
+    "Check HR and BP first; hold and report per the order's parameters",
+    "Don't stop suddenly",
+    "Can mask low blood sugar signs"
+   ]
+  }
+ },
+ {
+  "id": "bisoprolol",
+  "category": "cardio",
+  "name": {
+   "fr": "Bisoprolol",
+   "en": "Bisoprolol"
+  },
+  "brands": [
+   "Monocor"
+  ],
+  "drugClass": {
+   "fr": "Bêtabloquant (cardiosélectif)",
+   "en": "Beta blocker (cardioselective)"
+  },
+  "why": {
+   "fr": [
+    "HTA",
+    "Insuffisance cardiaque",
+    "Angine",
+    "Fibrillation auriculaire"
+   ],
+   "en": [
+    "High blood pressure",
+    "Heart failure",
+    "Angina",
+    "Atrial fibrillation"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Bradycardie",
+    "Fatigue",
+    "Étourdissements",
+    "Hypotension"
+   ],
+   "en": [
+    "Slow heart rate",
+    "Fatigue",
+    "Dizziness",
+    "Low blood pressure"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Prendre FC et TA avant",
+    "Ne pas cesser brusquement"
+   ],
+   "en": [
+    "Check HR and BP before giving",
+    "Don't stop suddenly"
+   ]
+  }
+ },
+ {
+  "id": "furosemide",
+  "category": "cardio",
+  "name": {
+   "fr": "Furosémide",
+   "en": "Furosemide"
+  },
+  "brands": [
+   "Lasix"
+  ],
+  "drugClass": {
+   "fr": "Diurétique de l'anse",
+   "en": "Loop diuretic"
+  },
+  "why": {
+   "fr": [
+    "Œdème",
+    "Insuffisance cardiaque",
+    "Œdème pulmonaire",
+    "HTA"
+   ],
+   "en": [
+    "Swelling (edema)",
+    "Heart failure",
+    "Fluid in the lungs",
+    "High blood pressure"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Mictions fréquentes",
+    "Hypokaliémie (K+ bas)",
+    "Déshydratation",
+    "Hypotension",
+    "Étourdissements",
+    "Ototoxicité (doses IV élevées)"
+   ],
+   "en": [
+    "Frequent urination",
+    "Low potassium",
+    "Dehydration",
+    "Low blood pressure",
+    "Dizziness",
+    "Hearing damage (high IV doses)"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Poids quotidien, ingesta/excreta",
+    "Potassium",
+    "Donner le matin pour éviter les mictions la nuit"
+   ],
+   "en": [
+    "Daily weight, intake/output",
+    "Potassium",
+    "Give in the morning to avoid night-time urination"
+   ]
+  }
+ },
+ {
+  "id": "hctz",
+  "category": "cardio",
+  "name": {
+   "fr": "Hydrochlorothiazide",
+   "en": "Hydrochlorothiazide"
+  },
+  "brands": [
+   "HCTZ"
+  ],
+  "drugClass": {
+   "fr": "Diurétique thiazidique",
+   "en": "Thiazide diuretic"
+  },
+  "why": {
+   "fr": [
+    "HTA",
+    "Œdème"
+   ],
+   "en": [
+    "High blood pressure",
+    "Swelling (edema)"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Hypokaliémie",
+    "Hyponatrémie",
+    "Hyperglycémie",
+    "Goutte",
+    "Photosensibilité",
+    "Étourdissements"
+   ],
+   "en": [
+    "Low potassium",
+    "Low sodium",
+    "High blood sugar",
+    "Gout",
+    "Sun sensitivity",
+    "Dizziness"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Électrolytes",
+    "Donner le matin"
+   ],
+   "en": [
+    "Electrolytes",
+    "Give in the morning"
+   ]
+  }
+ },
+ {
+  "id": "spironolactone",
+  "category": "cardio",
+  "name": {
+   "fr": "Spironolactone",
+   "en": "Spironolactone"
+  },
+  "brands": [
+   "Aldactone"
+  ],
+  "drugClass": {
+   "fr": "Diurétique épargneur de potassium (antagoniste de l'aldostérone)",
+   "en": "Potassium-sparing diuretic (aldosterone antagonist)"
+  },
+  "why": {
+   "fr": [
+    "Insuffisance cardiaque",
+    "Ascite (cirrhose)",
+    "HTA résistante"
+   ],
+   "en": [
+    "Heart failure",
+    "Ascites (cirrhosis)",
+    "Hard-to-control high blood pressure"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Hyperkaliémie (K+ élevé)",
+    "Gynécomastie",
+    "Étourdissements",
+    "Troubles digestifs"
+   ],
+   "en": [
+    "High potassium",
+    "Breast enlargement in men",
+    "Dizziness",
+    "Stomach upset"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Potassium (surtout avec un IECA ou ARA)",
+    "Éviter les suppléments de potassium sauf si prescrits"
+   ],
+   "en": [
+    "Potassium (especially with ACE inhibitor or ARB)",
+    "Avoid potassium supplements unless ordered"
+   ]
+  }
+ },
+ {
+  "id": "digoxin",
+  "category": "cardio",
+  "name": {
+   "fr": "Digoxine",
+   "en": "Digoxin"
+  },
+  "brands": [
+   "Lanoxin",
+   "Toloxin"
+  ],
+  "drugClass": {
+   "fr": "Glycoside cardiaque (digitalique)",
+   "en": "Cardiac glycoside"
+  },
+  "why": {
+   "fr": [
+    "Insuffisance cardiaque",
+    "Fibrillation auriculaire (contrôle de la fréquence)"
+   ],
+   "en": [
+    "Heart failure",
+    "Atrial fibrillation (rate control)"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Toxicité : nausées, vomissements, perte d'appétit",
+    "Vision jaune-verte ou halos",
+    "Bradycardie",
+    "Arythmies",
+    "Confusion"
+   ],
+   "en": [
+    "Toxicity: nausea, vomiting, loss of appetite",
+    "Yellow-green vision or halos",
+    "Slow heart rate",
+    "Irregular heartbeat",
+    "Confusion"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Pouls apical 1 minute complète avant; retenir et aviser selon les paramètres de l'ordonnance (souvent < 60)",
+    "K+ bas augmente le risque de toxicité",
+    "Marge thérapeutique étroite (digoxinémie)"
+   ],
+   "en": [
+    "Apical pulse for a full minute first; hold and report per order parameters (often < 60)",
+    "Low potassium raises toxicity risk",
+    "Narrow therapeutic range (digoxin level)"
+   ]
+  }
+ },
+ {
+  "id": "nitroglycerin",
+  "category": "cardio",
+  "name": {
+   "fr": "Nitroglycérine",
+   "en": "Nitroglycerin"
+  },
+  "brands": [
+   "Nitrolingual (vaporisateur)",
+   "Trinipatch (timbre)"
+  ],
+  "drugClass": {
+   "fr": "Dérivé nitré (vasodilatateur)",
+   "en": "Nitrate (vasodilator)"
+  },
+  "why": {
+   "fr": [
+    "Crise d'angine (sublingual)",
+    "Prévention de l'angine (timbre)"
+   ],
+   "en": [
+    "Angina attack (under the tongue)",
+    "Angina prevention (patch)"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Maux de tête",
+    "Hypotension",
+    "Étourdissements",
+    "Bouffées de chaleur"
+   ],
+   "en": [
+    "Headache",
+    "Low blood pressure",
+    "Dizziness",
+    "Flushing"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Faire asseoir le patient",
+    "Sublingual : selon le protocole, habituellement 1 dose aux 5 min, max 3; appeler à l'aide si la douleur persiste",
+    "Contre-indiqué avec sildénafil/tadalafil",
+    "Timbre : retirer la nuit si prescrit, alterner les sites"
+   ],
+   "en": [
+    "Have the patient sit",
+    "Under the tongue: per protocol, usually 1 dose every 5 min, max 3; call for help if pain persists",
+    "Not with sildenafil/tadalafil",
+    "Patch: remove at night if ordered, rotate sites"
+   ]
+  }
+ },
+ {
+  "id": "atorvastatin",
+  "category": "cardio",
+  "name": {
+   "fr": "Atorvastatine",
+   "en": "Atorvastatin"
+  },
+  "brands": [
+   "Lipitor"
+  ],
+  "drugClass": {
+   "fr": "Statine (hypolipémiant)",
+   "en": "Statin (cholesterol-lowering)"
+  },
+  "why": {
+   "fr": [
+    "Cholestérol élevé",
+    "Prévention de l'infarctus et de l'AVC"
+   ],
+   "en": [
+    "High cholesterol",
+    "Preventing heart attack and stroke"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Douleurs musculaires",
+    "Troubles digestifs",
+    "Maux de tête",
+    "Hausse des enzymes du foie",
+    "Rhabdomyolyse (rare)"
+   ],
+   "en": [
+    "Muscle pain",
+    "Stomach upset",
+    "Headache",
+    "Raised liver enzymes",
+    "Muscle breakdown (rare)"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Signaler douleurs ou faiblesse musculaires inexpliquées"
+   ],
+   "en": [
+    "Report unexplained muscle pain or weakness"
+   ]
+  }
+ },
+ {
+  "id": "rosuvastatin",
+  "category": "cardio",
+  "name": {
+   "fr": "Rosuvastatine",
+   "en": "Rosuvastatin"
+  },
+  "brands": [
+   "Crestor"
+  ],
+  "drugClass": {
+   "fr": "Statine (hypolipémiant)",
+   "en": "Statin (cholesterol-lowering)"
+  },
+  "why": {
+   "fr": [
+    "Cholestérol élevé",
+    "Prévention de l'infarctus et de l'AVC"
+   ],
+   "en": [
+    "High cholesterol",
+    "Preventing heart attack and stroke"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Douleurs musculaires",
+    "Maux de tête",
+    "Nausées",
+    "Hausse des enzymes du foie"
+   ],
+   "en": [
+    "Muscle pain",
+    "Headache",
+    "Nausea",
+    "Raised liver enzymes"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Signaler douleurs musculaires inexpliquées"
+   ],
+   "en": [
+    "Report unexplained muscle pain"
+   ]
+  }
+ },
+ {
+  "id": "asa",
+  "category": "blood",
+  "name": {
+   "fr": "Acide acétylsalicylique (AAS)",
+   "en": "Acetylsalicylic acid (ASA)"
+  },
+  "brands": [
+   "Aspirin",
+   "Entrophen",
+   "Asaphen"
+  ],
+  "drugClass": {
+   "fr": "Antiplaquettaire (à faible dose) / AINS",
+   "en": "Antiplatelet (low dose) / NSAID"
+  },
+  "why": {
+   "fr": [
+    "Prévention de l'infarctus et de l'AVC (80 mg)",
+    "Après un stent",
+    "Douleur et fièvre (doses plus fortes)"
+   ],
+   "en": [
+    "Preventing heart attack and stroke (80 mg)",
+    "After a stent",
+    "Pain and fever (higher doses)"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Brûlures d'estomac",
+    "Saignements digestifs",
+    "Ecchymoses (bleus)"
+   ],
+   "en": [
+    "Heartburn",
+    "Stomach bleeding",
+    "Bruising"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Surveiller saignements, selles noires",
+    "Avec nourriture",
+    "Comprimés entérosolubles : ne pas écraser"
+   ],
+   "en": [
+    "Watch for bleeding, black stools",
+    "Give with food",
+    "Enteric-coated: don't crush"
+   ]
+  }
+ },
+ {
+  "id": "clopidogrel",
+  "category": "blood",
+  "name": {
+   "fr": "Clopidogrel",
+   "en": "Clopidogrel"
+  },
+  "brands": [
+   "Plavix"
+  ],
+  "drugClass": {
+   "fr": "Antiplaquettaire",
+   "en": "Antiplatelet"
+  },
+  "why": {
+   "fr": [
+    "Après un stent ou un syndrome coronarien aigu",
+    "Prévention de l'AVC",
+    "Maladie artérielle périphérique"
+   ],
+   "en": [
+    "After a stent or heart attack",
+    "Stroke prevention",
+    "Peripheral artery disease"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Saignements",
+    "Ecchymoses",
+    "Diarrhée",
+    "Éruption cutanée"
+   ],
+   "en": [
+    "Bleeding",
+    "Bruising",
+    "Diarrhea",
+    "Rash"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Surveiller les saignements",
+    "Ne pas cesser sans l'avis du médecin (risque de thrombose du stent)"
+   ],
+   "en": [
+    "Watch for bleeding",
+    "Don't stop without the doctor (stent clot risk)"
+   ]
+  }
+ },
+ {
+  "id": "warfarin",
+  "category": "blood",
+  "name": {
+   "fr": "Warfarine",
+   "en": "Warfarin"
+  },
+  "brands": [
+   "Coumadin"
+  ],
+  "drugClass": {
+   "fr": "Anticoagulant (antagoniste de la vitamine K)",
+   "en": "Anticoagulant (vitamin K antagonist)"
+  },
+  "why": {
+   "fr": [
+    "Fibrillation auriculaire",
+    "Thrombose veineuse profonde (TVP) / embolie pulmonaire (EP)",
+    "Valve cardiaque mécanique"
+   ],
+   "en": [
+    "Atrial fibrillation",
+    "Deep vein clot (DVT) / lung clot (PE)",
+    "Mechanical heart valve"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Saignements (gencives, nez, urine, selles)",
+    "Ecchymoses"
+   ],
+   "en": [
+    "Bleeding (gums, nose, urine, stool)",
+    "Bruising"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "RNI (INR) régulier; dose ajustée selon le résultat",
+    "Beaucoup d'interactions (antibiotiques, AINS...)",
+    "Apport en vitamine K constant",
+    "Antidote : vitamine K"
+   ],
+   "en": [
+    "Regular INR; dose adjusted to the result",
+    "Many interactions (antibiotics, NSAIDs...)",
+    "Keep vitamin K intake steady",
+    "Antidote: vitamin K"
+   ]
+  }
+ },
+ {
+  "id": "apixaban",
+  "category": "blood",
+  "name": {
+   "fr": "Apixaban",
+   "en": "Apixaban"
+  },
+  "brands": [
+   "Eliquis"
+  ],
+  "drugClass": {
+   "fr": "Anticoagulant oral direct (inhibiteur du facteur Xa)",
+   "en": "Direct oral anticoagulant (factor Xa inhibitor)"
+  },
+  "why": {
+   "fr": [
+    "Fibrillation auriculaire (prévention de l'AVC)",
+    "TVP / EP : traitement et prévention"
+   ],
+   "en": [
+    "Atrial fibrillation (stroke prevention)",
+    "DVT / PE: treatment and prevention"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Saignements",
+    "Ecchymoses",
+    "Nausées"
+   ],
+   "en": [
+    "Bleeding",
+    "Bruising",
+    "Nausea"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Deux fois par jour, à heure fixe",
+    "Surveiller les saignements",
+    "Pas de suivi RNI"
+   ],
+   "en": [
+    "Twice a day at set times",
+    "Watch for bleeding",
+    "No INR needed"
+   ]
+  }
+ },
+ {
+  "id": "rivaroxaban",
+  "category": "blood",
+  "name": {
+   "fr": "Rivaroxaban",
+   "en": "Rivaroxaban"
+  },
+  "brands": [
+   "Xarelto"
+  ],
+  "drugClass": {
+   "fr": "Anticoagulant oral direct (inhibiteur du facteur Xa)",
+   "en": "Direct oral anticoagulant (factor Xa inhibitor)"
+  },
+  "why": {
+   "fr": [
+    "Fibrillation auriculaire (prévention de l'AVC)",
+    "TVP / EP",
+    "Prévention après une chirurgie orthopédique"
+   ],
+   "en": [
+    "Atrial fibrillation (stroke prevention)",
+    "DVT / PE",
+    "Prevention after orthopedic surgery"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Saignements",
+    "Ecchymoses",
+    "Anémie"
+   ],
+   "en": [
+    "Bleeding",
+    "Bruising",
+    "Anemia"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Doses de 15 et 20 mg : avec un repas",
+    "Surveiller les saignements"
+   ],
+   "en": [
+    "15 and 20 mg doses: give with a meal",
+    "Watch for bleeding"
+   ]
+  }
+ },
+ {
+  "id": "enoxaparin",
+  "category": "blood",
+  "name": {
+   "fr": "Énoxaparine",
+   "en": "Enoxaparin"
+  },
+  "brands": [
+   "Lovenox",
+   "Redesca"
+  ],
+  "drugClass": {
+   "fr": "Héparine de faible poids moléculaire (HFPM)",
+   "en": "Low-molecular-weight heparin (LMWH)"
+  },
+  "why": {
+   "fr": [
+    "Prévention des caillots (immobilisation, chirurgie)",
+    "Traitement de la TVP / EP"
+   ],
+   "en": [
+    "Preventing clots (bedrest, surgery)",
+    "Treating DVT / PE"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Saignements",
+    "Ecchymoses ou hématome au site d'injection",
+    "Thrombocytopénie"
+   ],
+   "en": [
+    "Bleeding",
+    "Bruising or lump at injection site",
+    "Low platelets"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Sous-cutané dans l'abdomen, à 5 cm du nombril, alterner les côtés",
+    "Ne pas expulser la bulle d'air, ne pas frotter",
+    "Plaquettes"
+   ],
+   "en": [
+    "Subcutaneous in the abdomen, 5 cm from the navel, alternate sides",
+    "Don't expel the air bubble, don't rub",
+    "Platelets"
+   ]
+  }
+ },
+ {
+  "id": "heparin",
+  "category": "blood",
+  "name": {
+   "fr": "Héparine",
+   "en": "Heparin"
+  },
+  "brands": [],
+  "drugClass": {
+   "fr": "Anticoagulant (héparine non fractionnée)",
+   "en": "Anticoagulant (unfractionated heparin)"
+  },
+  "why": {
+   "fr": [
+    "Prévention des caillots (sous-cutané)",
+    "Traitement de la TVP / EP (perfusion IV)"
+   ],
+   "en": [
+    "Preventing clots (subcutaneous)",
+    "Treating DVT / PE (IV drip)"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Saignements",
+    "Ecchymoses",
+    "Thrombocytopénie induite par l'héparine (TIH)"
+   ],
+   "en": [
+    "Bleeding",
+    "Bruising",
+    "Heparin-induced low platelets (HIT)"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Médicament de haute alerte : double vérification",
+    "IV : selon le protocole (TCA / aPTT)",
+    "Plaquettes",
+    "Antidote : protamine"
+   ],
+   "en": [
+    "High-alert drug: independent double check",
+    "IV: per protocol (aPTT)",
+    "Platelets",
+    "Antidote: protamine"
+   ]
+  }
+ },
+ {
+  "id": "metformin",
+  "category": "endo",
+  "name": {
+   "fr": "Metformine",
+   "en": "Metformin"
+  },
+  "brands": [
+   "Glucophage",
+   "Glumetza"
+  ],
+  "drugClass": {
+   "fr": "Antidiabétique (biguanide)",
+   "en": "Diabetes medication (biguanide)"
+  },
+  "why": {
+   "fr": [
+    "Diabète de type 2"
+   ],
+   "en": [
+    "Type 2 diabetes"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Diarrhée, nausées, crampes",
+    "Goût métallique",
+    "Carence en vitamine B12 (long terme)",
+    "Acidose lactique (rare)"
+   ],
+   "en": [
+    "Diarrhea, nausea, cramps",
+    "Metallic taste",
+    "Low vitamin B12 (long term)",
+    "Lactic acidosis (rare)"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Avec les repas",
+    "Fonction rénale",
+    "Souvent suspendue avant un examen avec contraste iodé (selon protocole)",
+    "Ne cause pas d'hypoglycémie seule"
+   ],
+   "en": [
+    "With meals",
+    "Kidney function",
+    "Often held before iodine contrast tests (per protocol)",
+    "Doesn't cause low blood sugar on its own"
+   ]
+  }
+ },
+ {
+  "id": "gliclazide",
+  "category": "endo",
+  "name": {
+   "fr": "Gliclazide",
+   "en": "Gliclazide"
+  },
+  "brands": [
+   "Diamicron"
+  ],
+  "drugClass": {
+   "fr": "Antidiabétique (sulfonylurée)",
+   "en": "Diabetes medication (sulfonylurea)"
+  },
+  "why": {
+   "fr": [
+    "Diabète de type 2"
+   ],
+   "en": [
+    "Type 2 diabetes"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Hypoglycémie",
+    "Gain de poids",
+    "Nausées"
+   ],
+   "en": [
+    "Low blood sugar",
+    "Weight gain",
+    "Nausea"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Glycémie",
+    "Avec le déjeuner; aviser si le patient ne mange pas (risque d'hypoglycémie)"
+   ],
+   "en": [
+    "Blood sugar",
+    "Give with breakfast; report if the patient isn't eating (low sugar risk)"
+   ]
+  }
+ },
+ {
+  "id": "empagliflozin",
+  "category": "endo",
+  "name": {
+   "fr": "Empagliflozine",
+   "en": "Empagliflozin"
+  },
+  "brands": [
+   "Jardiance"
+  ],
+  "drugClass": {
+   "fr": "Antidiabétique (inhibiteur du SGLT2)",
+   "en": "Diabetes medication (SGLT2 inhibitor)"
+  },
+  "why": {
+   "fr": [
+    "Diabète de type 2",
+    "Insuffisance cardiaque",
+    "Insuffisance rénale chronique"
+   ],
+   "en": [
+    "Type 2 diabetes",
+    "Heart failure",
+    "Chronic kidney disease"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Infections urinaires et génitales (champignons)",
+    "Mictions fréquentes",
+    "Déshydratation",
+    "Acidocétose (rare)"
+   ],
+   "en": [
+    "Urinary and genital (yeast) infections",
+    "Frequent urination",
+    "Dehydration",
+    "Ketoacidosis (rare)"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Hydratation",
+    "Hygiène génitale",
+    "Souvent suspendu si le patient est à jeun ou malade (selon protocole)"
+   ],
+   "en": [
+    "Hydration",
+    "Genital hygiene",
+    "Often held when NPO or acutely ill (per protocol)"
+   ]
+  }
+ },
+ {
+  "id": "sitagliptin",
+  "category": "endo",
+  "name": {
+   "fr": "Sitagliptine",
+   "en": "Sitagliptin"
+  },
+  "brands": [
+   "Januvia",
+   "Janumet (avec metformine)"
+  ],
+  "drugClass": {
+   "fr": "Antidiabétique (inhibiteur de la DPP-4)",
+   "en": "Diabetes medication (DPP-4 inhibitor)"
+  },
+  "why": {
+   "fr": [
+    "Diabète de type 2"
+   ],
+   "en": [
+    "Type 2 diabetes"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Maux de tête",
+    "Rhume / mal de gorge",
+    "Pancréatite (rare)"
+   ],
+   "en": [
+    "Headache",
+    "Cold symptoms / sore throat",
+    "Pancreatitis (rare)"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Peu d'hypoglycémie seule",
+    "Douleur abdominale intense : aviser"
+   ],
+   "en": [
+    "Little low-sugar risk alone",
+    "Severe stomach pain: report"
+   ]
+  }
+ },
+ {
+  "id": "insulin-glargine",
+  "category": "endo",
+  "name": {
+   "fr": "Insuline glargine (longue action)",
+   "en": "Insulin glargine (long-acting)"
+  },
+  "brands": [
+   "Lantus",
+   "Basaglar",
+   "Toujeo"
+  ],
+  "drugClass": {
+   "fr": "Insuline basale (longue action)",
+   "en": "Basal insulin (long-acting)"
+  },
+  "why": {
+   "fr": [
+    "Diabète type 1 et type 2 : contrôle de la glycémie sur 24 h"
+   ],
+   "en": [
+    "Type 1 and 2 diabetes: 24-hour blood sugar control"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Hypoglycémie",
+    "Réaction au site d'injection",
+    "Gain de poids"
+   ],
+   "en": [
+    "Low blood sugar",
+    "Injection site reaction",
+    "Weight gain"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Médicament de haute alerte : double vérification",
+    "Glycémie",
+    "Une fois par jour à la même heure, pas de pic",
+    "Ne jamais mélanger avec une autre insuline",
+    "Connaître les signes d'hypoglycémie"
+   ],
+   "en": [
+    "High-alert drug: double check",
+    "Blood sugar",
+    "Once a day at the same time, no peak",
+    "Never mix with another insulin",
+    "Know the signs of low blood sugar"
+   ]
+  }
+ },
+ {
+  "id": "insulin-rapid",
+  "category": "endo",
+  "name": {
+   "fr": "Insuline rapide (lispro, asparte)",
+   "en": "Rapid-acting insulin (lispro, aspart)"
+  },
+  "brands": [
+   "Humalog",
+   "NovoRapid",
+   "Admelog",
+   "Fiasp"
+  ],
+  "drugClass": {
+   "fr": "Insuline prandiale (action rapide)",
+   "en": "Mealtime insulin (rapid-acting)"
+  },
+  "why": {
+   "fr": [
+    "Diabète : couvrir les repas",
+    "Corriger une glycémie élevée (échelle)"
+   ],
+   "en": [
+    "Diabetes: cover meals",
+    "Correct high blood sugar (sliding scale)"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Hypoglycémie",
+    "Réaction au site d'injection",
+    "Hypokaliémie"
+   ],
+   "en": [
+    "Low blood sugar",
+    "Injection site reaction",
+    "Low potassium"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Médicament de haute alerte : double vérification",
+    "Glycémie avant",
+    "Donner juste avant le repas (0–15 min); le repas doit être disponible"
+   ],
+   "en": [
+    "High-alert drug: double check",
+    "Check blood sugar first",
+    "Give right before the meal (0–15 min); the meal must be there"
+   ]
+  }
+ },
+ {
+  "id": "levothyroxine",
+  "category": "endo",
+  "name": {
+   "fr": "Lévothyroxine",
+   "en": "Levothyroxine"
+  },
+  "brands": [
+   "Synthroid",
+   "Eltroxin"
+  ],
+  "drugClass": {
+   "fr": "Hormone thyroïdienne",
+   "en": "Thyroid hormone"
+  },
+  "why": {
+   "fr": [
+    "Hypothyroïdie"
+   ],
+   "en": [
+    "Underactive thyroid (hypothyroidism)"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Si dose trop forte : palpitations, tachycardie, insomnie, nervosité, perte de poids, intolérance à la chaleur"
+   ],
+   "en": [
+    "If the dose is too high: palpitations, fast heart rate, insomnia, nervousness, weight loss, heat intolerance"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "À jeun, 30–60 min avant le déjeuner, avec de l'eau",
+    "Séparer de 4 h du calcium, du fer et des antiacides"
+   ],
+   "en": [
+    "On an empty stomach, 30–60 min before breakfast, with water",
+    "Separate by 4 h from calcium, iron and antacids"
+   ]
+  }
+ },
+ {
+  "id": "prednisone",
+  "category": "endo",
+  "name": {
+   "fr": "Prednisone",
+   "en": "Prednisone"
+  },
+  "brands": [],
+  "drugClass": {
+   "fr": "Corticostéroïde",
+   "en": "Corticosteroid"
+  },
+  "why": {
+   "fr": [
+    "Exacerbation de MPOC ou d'asthme",
+    "Inflammation (arthrite, maladies auto-immunes)",
+    "Réactions allergiques"
+   ],
+   "en": [
+    "COPD or asthma flare",
+    "Inflammation (arthritis, autoimmune disease)",
+    "Allergic reactions"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Hyperglycémie",
+    "Insomnie",
+    "Changements d'humeur",
+    "Appétit augmenté",
+    "Rétention d'eau",
+    "Infections",
+    "Ostéoporose (long terme)"
+   ],
+   "en": [
+    "High blood sugar",
+    "Insomnia",
+    "Mood changes",
+    "Increased appetite",
+    "Fluid retention",
+    "Infections",
+    "Weak bones (long term)"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Le matin avec nourriture",
+    "Glycémie chez le diabétique",
+    "Ne pas cesser brusquement après un usage prolongé"
+   ],
+   "en": [
+    "In the morning with food",
+    "Blood sugar in diabetics",
+    "Don't stop suddenly after long-term use"
+   ]
+  }
+ },
+ {
+  "id": "pantoprazole",
+  "category": "gi",
+  "name": {
+   "fr": "Pantoprazole",
+   "en": "Pantoprazole"
+  },
+  "brands": [
+   "Pantoloc",
+   "Tecta"
+  ],
+  "drugClass": {
+   "fr": "Inhibiteur de la pompe à protons (IPP)",
+   "en": "Proton pump inhibitor (PPI)"
+  },
+  "why": {
+   "fr": [
+    "Reflux gastro-œsophagien (RGO)",
+    "Ulcère d'estomac",
+    "Protection de l'estomac (AINS, corticos)"
+   ],
+   "en": [
+    "Acid reflux (GERD)",
+    "Stomach ulcer",
+    "Stomach protection (NSAIDs, steroids)"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Maux de tête",
+    "Diarrhée",
+    "Douleur abdominale",
+    "Long terme : C. difficile, ↓ B12 et magnésium, fractures"
+   ],
+   "en": [
+    "Headache",
+    "Diarrhea",
+    "Stomach pain",
+    "Long term: C. difficile, low B12 and magnesium, fractures"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "30–60 min avant le déjeuner",
+    "Ne pas écraser ni croquer"
+   ],
+   "en": [
+    "30–60 min before breakfast",
+    "Don't crush or chew"
+   ]
+  }
+ },
+ {
+  "id": "famotidine",
+  "category": "gi",
+  "name": {
+   "fr": "Famotidine",
+   "en": "Famotidine"
+  },
+  "brands": [
+   "Pepcid"
+  ],
+  "drugClass": {
+   "fr": "Antihistaminique H2 (anti-acide)",
+   "en": "H2 blocker (acid reducer)"
+  },
+  "why": {
+   "fr": [
+    "RGO",
+    "Brûlures d'estomac",
+    "Ulcère"
+   ],
+   "en": [
+    "Acid reflux",
+    "Heartburn",
+    "Ulcer"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Maux de tête",
+    "Étourdissements",
+    "Confusion chez la personne âgée"
+   ],
+   "en": [
+    "Headache",
+    "Dizziness",
+    "Confusion in older adults"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Dose réduite si fonction rénale diminuée"
+   ],
+   "en": [
+    "Lower dose if kidney function is reduced"
+   ]
+  }
+ },
+ {
+  "id": "sennosides",
+  "category": "gi",
+  "name": {
+   "fr": "Sennosides",
+   "en": "Sennosides"
+  },
+  "brands": [
+   "Senokot"
+  ],
+  "drugClass": {
+   "fr": "Laxatif stimulant",
+   "en": "Stimulant laxative"
+  },
+  "why": {
+   "fr": [
+    "Constipation (souvent avec les opioïdes)"
+   ],
+   "en": [
+    "Constipation (often with opioids)"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Crampes abdominales",
+    "Diarrhée",
+    "Urine plus foncée"
+   ],
+   "en": [
+    "Stomach cramps",
+    "Diarrhea",
+    "Darker urine"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Agit en 6–12 h : souvent donné au coucher",
+    "Noter les selles"
+   ],
+   "en": [
+    "Works in 6–12 h: often given at bedtime",
+    "Track bowel movements"
+   ]
+  }
+ },
+ {
+  "id": "docusate",
+  "category": "gi",
+  "name": {
+   "fr": "Docusate sodique",
+   "en": "Docusate sodium"
+  },
+  "brands": [
+   "Colace",
+   "Soflax"
+  ],
+  "drugClass": {
+   "fr": "Émollient des selles",
+   "en": "Stool softener"
+  },
+  "why": {
+   "fr": [
+    "Prévenir les selles dures"
+   ],
+   "en": [
+    "Preventing hard stools"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Peu d'effets",
+    "Crampes légères",
+    "Goût amer (liquide)"
+   ],
+   "en": [
+    "Few side effects",
+    "Mild cramps",
+    "Bitter taste (liquid)"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Efficacité limitée seul : souvent combiné à un laxatif"
+   ],
+   "en": [
+    "Limited effect on its own: often combined with a laxative"
+   ]
+  }
+ },
+ {
+  "id": "peg3350",
+  "category": "gi",
+  "name": {
+   "fr": "Polyéthylène glycol 3350 (PEG)",
+   "en": "Polyethylene glycol 3350 (PEG)"
+  },
+  "brands": [
+   "Lax-A-Day",
+   "RestoraLAX"
+  ],
+  "drugClass": {
+   "fr": "Laxatif osmotique",
+   "en": "Osmotic laxative"
+  },
+  "why": {
+   "fr": [
+    "Constipation"
+   ],
+   "en": [
+    "Constipation"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Ballonnements",
+    "Gaz",
+    "Diarrhée",
+    "Nausées"
+   ],
+   "en": [
+    "Bloating",
+    "Gas",
+    "Diarrhea",
+    "Nausea"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Dissoudre la poudre dans 125–250 mL de liquide",
+    "Effet en 1–3 jours",
+    "Noter les selles"
+   ],
+   "en": [
+    "Dissolve the powder in 125–250 mL of liquid",
+    "Works in 1–3 days",
+    "Track bowel movements"
+   ]
+  }
+ },
+ {
+  "id": "lactulose",
+  "category": "gi",
+  "name": {
+   "fr": "Lactulose",
+   "en": "Lactulose"
+  },
+  "brands": [],
+  "drugClass": {
+   "fr": "Laxatif osmotique",
+   "en": "Osmotic laxative"
+  },
+  "why": {
+   "fr": [
+    "Constipation",
+    "Encéphalopathie hépatique (diminue l'ammoniac)"
+   ],
+   "en": [
+    "Constipation",
+    "Hepatic encephalopathy (lowers ammonia)"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Gaz",
+    "Ballonnements",
+    "Crampes",
+    "Diarrhée",
+    "Goût très sucré"
+   ],
+   "en": [
+    "Gas",
+    "Bloating",
+    "Cramps",
+    "Diarrhea",
+    "Very sweet taste"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Peut être mélangé à du jus",
+    "Encéphalopathie : viser 2–3 selles molles par jour (selon l'ordonnance)",
+    "Surveiller hydratation et électrolytes"
+   ],
+   "en": [
+    "Can be mixed with juice",
+    "Encephalopathy: aim for 2–3 soft stools a day (per order)",
+    "Watch hydration and electrolytes"
+   ]
+  }
+ },
+ {
+  "id": "ondansetron",
+  "category": "gi",
+  "name": {
+   "fr": "Ondansétron",
+   "en": "Ondansetron"
+  },
+  "brands": [
+   "Zofran"
+  ],
+  "drugClass": {
+   "fr": "Antiémétique (antagoniste 5-HT3)",
+   "en": "Anti-nausea (5-HT3 antagonist)"
+  },
+  "why": {
+   "fr": [
+    "Nausées et vomissements (chimiothérapie, après une chirurgie)"
+   ],
+   "en": [
+    "Nausea and vomiting (chemo, after surgery)"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Maux de tête",
+    "Constipation",
+    "Étourdissements",
+    "Allongement du QT"
+   ],
+   "en": [
+    "Headache",
+    "Constipation",
+    "Dizziness",
+    "QT prolongation"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Comprimé orodispersible : sur la langue, mains sèches"
+   ],
+   "en": [
+    "Dissolving tablet: on the tongue, with dry hands"
+   ]
+  }
+ },
+ {
+  "id": "metoclopramide",
+  "category": "gi",
+  "name": {
+   "fr": "Métoclopramide",
+   "en": "Metoclopramide"
+  },
+  "brands": [
+   "Metonia"
+  ],
+  "drugClass": {
+   "fr": "Antiémétique / prokinétique",
+   "en": "Anti-nausea / gut motility drug"
+  },
+  "why": {
+   "fr": [
+    "Nausées et vomissements",
+    "Gastroparésie (estomac lent)",
+    "RGO"
+   ],
+   "en": [
+    "Nausea and vomiting",
+    "Gastroparesis (slow stomach)",
+    "Acid reflux"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Somnolence",
+    "Agitation",
+    "Symptômes extrapyramidaux",
+    "Dyskinésie tardive (usage prolongé)"
+   ],
+   "en": [
+    "Drowsiness",
+    "Restlessness",
+    "Extrapyramidal symptoms",
+    "Tardive dyskinesia (long-term use)"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "30 min avant les repas",
+    "Signaler mouvements involontaires"
+   ],
+   "en": [
+    "30 min before meals",
+    "Report involuntary movements"
+   ]
+  }
+ },
+ {
+  "id": "dimenhydrinate",
+  "category": "gi",
+  "name": {
+   "fr": "Dimenhydrinate",
+   "en": "Dimenhydrinate"
+  },
+  "brands": [
+   "Gravol"
+  ],
+  "drugClass": {
+   "fr": "Antiémétique (antihistaminique)",
+   "en": "Anti-nausea (antihistamine)"
+  },
+  "why": {
+   "fr": [
+    "Nausées et vomissements",
+    "Mal des transports",
+    "Vertiges"
+   ],
+   "en": [
+    "Nausea and vomiting",
+    "Motion sickness",
+    "Vertigo"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Somnolence",
+    "Bouche sèche",
+    "Vision trouble",
+    "Confusion chez la personne âgée",
+    "Rétention urinaire"
+   ],
+   "en": [
+    "Drowsiness",
+    "Dry mouth",
+    "Blurred vision",
+    "Confusion in older adults",
+    "Urinary retention"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Risque de chute",
+    "Prudence chez la personne âgée (effets anticholinergiques)"
+   ],
+   "en": [
+    "Fall risk",
+    "Caution in older adults (anticholinergic effects)"
+   ]
+  }
+ },
+ {
+  "id": "acetaminophen",
+  "category": "pain",
+  "name": {
+   "fr": "Acétaminophène",
+   "en": "Acetaminophen"
+  },
+  "brands": [
+   "Tylenol",
+   "Atasol"
+  ],
+  "drugClass": {
+   "fr": "Analgésique / antipyrétique",
+   "en": "Pain reliever / fever reducer"
+  },
+  "why": {
+   "fr": [
+    "Douleur légère à modérée",
+    "Fièvre"
+   ],
+   "en": [
+    "Mild to moderate pain",
+    "Fever"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Rares aux doses habituelles",
+    "Atteinte du foie en cas de surdose"
+   ],
+   "en": [
+    "Rare at usual doses",
+    "Liver damage in overdose"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Respecter la dose max quotidienne de l'ordonnance (adulte : souvent 4 g/jour, moins chez la personne âgée ou l'alcoolique)",
+    "Compter TOUTES les sources (ex. Tylenol + Percocet)",
+    "Réévaluer la douleur ou la température"
+   ],
+   "en": [
+    "Respect the order's max daily dose (adults: often 4 g/day, less in older adults or with alcohol use)",
+    "Count ALL sources (e.g. Tylenol + Percocet)",
+    "Reassess pain or temperature"
+   ]
+  }
+ },
+ {
+  "id": "ibuprofen",
+  "category": "pain",
+  "name": {
+   "fr": "Ibuprofène",
+   "en": "Ibuprofen"
+  },
+  "brands": [
+   "Advil",
+   "Motrin"
+  ],
+  "drugClass": {
+   "fr": "Anti-inflammatoire non stéroïdien (AINS)",
+   "en": "Non-steroidal anti-inflammatory (NSAID)"
+  },
+  "why": {
+   "fr": [
+    "Douleur",
+    "Inflammation",
+    "Fièvre"
+   ],
+   "en": [
+    "Pain",
+    "Inflammation",
+    "Fever"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Brûlures d'estomac",
+    "Ulcère et saignement digestif",
+    "Atteinte des reins",
+    "Hausse de la TA",
+    "Rétention d'eau"
+   ],
+   "en": [
+    "Heartburn",
+    "Stomach ulcer and bleeding",
+    "Kidney damage",
+    "Higher blood pressure",
+    "Fluid retention"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Avec nourriture",
+    "Prudence : personne âgée, insuffisance rénale ou cardiaque, anticoagulants"
+   ],
+   "en": [
+    "Give with food",
+    "Caution: older adults, kidney or heart failure, blood thinners"
+   ]
+  }
+ },
+ {
+  "id": "naproxen",
+  "category": "pain",
+  "name": {
+   "fr": "Naproxène",
+   "en": "Naproxen"
+  },
+  "brands": [
+   "Naprosyn",
+   "Aleve"
+  ],
+  "drugClass": {
+   "fr": "Anti-inflammatoire non stéroïdien (AINS)",
+   "en": "Non-steroidal anti-inflammatory (NSAID)"
+  },
+  "why": {
+   "fr": [
+    "Douleur",
+    "Arthrite",
+    "Inflammation"
+   ],
+   "en": [
+    "Pain",
+    "Arthritis",
+    "Inflammation"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Brûlures d'estomac",
+    "Saignement digestif",
+    "Atteinte des reins",
+    "Rétention d'eau"
+   ],
+   "en": [
+    "Heartburn",
+    "Stomach bleeding",
+    "Kidney damage",
+    "Fluid retention"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Avec nourriture",
+    "Mêmes précautions que l'ibuprofène"
+   ],
+   "en": [
+    "Give with food",
+    "Same cautions as ibuprofen"
+   ]
+  }
+ },
+ {
+  "id": "morphine",
+  "category": "pain",
+  "name": {
+   "fr": "Morphine",
+   "en": "Morphine"
+  },
+  "brands": [
+   "Statex",
+   "M-Eslon",
+   "MS Contin"
+  ],
+  "drugClass": {
+   "fr": "Analgésique opioïde (stupéfiant)",
+   "en": "Opioid pain reliever (narcotic)"
+  },
+  "why": {
+   "fr": [
+    "Douleur modérée à sévère",
+    "Dyspnée en soins palliatifs"
+   ],
+   "en": [
+    "Moderate to severe pain",
+    "Shortness of breath in palliative care"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Constipation",
+    "Nausées",
+    "Somnolence",
+    "Dépression respiratoire",
+    "Confusion",
+    "Démangeaisons",
+    "Rétention urinaire"
+   ],
+   "en": [
+    "Constipation",
+    "Nausea",
+    "Drowsiness",
+    "Slowed breathing",
+    "Confusion",
+    "Itching",
+    "Urinary retention"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Avant et après : douleur, FR, niveau de sédation (échelle POSS)",
+    "Stupéfiant : registre et décompte",
+    "Libération prolongée : ne pas écraser",
+    "Laxatif souvent prescrit",
+    "Antidote : naloxone"
+   ],
+   "en": [
+    "Before and after: pain, RR, sedation level (POSS)",
+    "Narcotic: register and count",
+    "Extended-release: don't crush",
+    "Laxative often ordered",
+    "Antidote: naloxone"
+   ]
+  }
+ },
+ {
+  "id": "hydromorphone",
+  "category": "pain",
+  "name": {
+   "fr": "Hydromorphone",
+   "en": "Hydromorphone"
+  },
+  "brands": [
+   "Dilaudid",
+   "Hydromorph Contin"
+  ],
+  "drugClass": {
+   "fr": "Analgésique opioïde (stupéfiant)",
+   "en": "Opioid pain reliever (narcotic)"
+  },
+  "why": {
+   "fr": [
+    "Douleur modérée à sévère"
+   ],
+   "en": [
+    "Moderate to severe pain"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Constipation",
+    "Nausées",
+    "Somnolence",
+    "Dépression respiratoire",
+    "Confusion"
+   ],
+   "en": [
+    "Constipation",
+    "Nausea",
+    "Drowsiness",
+    "Slowed breathing",
+    "Confusion"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Environ 5 fois plus puissant que la morphine : ne jamais confondre les deux",
+    "Médicament de haute alerte",
+    "FR et sédation (POSS)",
+    "Antidote : naloxone"
+   ],
+   "en": [
+    "About 5 times stronger than morphine: never mix them up",
+    "High-alert drug",
+    "RR and sedation (POSS)",
+    "Antidote: naloxone"
+   ]
+  }
+ },
+ {
+  "id": "oxycodone",
+  "category": "pain",
+  "name": {
+   "fr": "Oxycodone",
+   "en": "Oxycodone"
+  },
+  "brands": [
+   "Supeudol",
+   "OxyNEO",
+   "Percocet (avec acétaminophène)"
+  ],
+  "drugClass": {
+   "fr": "Analgésique opioïde (stupéfiant)",
+   "en": "Opioid pain reliever (narcotic)"
+  },
+  "why": {
+   "fr": [
+    "Douleur modérée à sévère"
+   ],
+   "en": [
+    "Moderate to severe pain"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Constipation",
+    "Nausées",
+    "Somnolence",
+    "Dépression respiratoire",
+    "Étourdissements"
+   ],
+   "en": [
+    "Constipation",
+    "Nausea",
+    "Drowsiness",
+    "Slowed breathing",
+    "Dizziness"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "FR et sédation (POSS)",
+    "Percocet contient de l'acétaminophène : compter dans le total quotidien",
+    "Libération prolongée : ne pas écraser"
+   ],
+   "en": [
+    "RR and sedation (POSS)",
+    "Percocet contains acetaminophen: count it in the daily total",
+    "Extended-release: don't crush"
+   ]
+  }
+ },
+ {
+  "id": "tramadol",
+  "category": "pain",
+  "name": {
+   "fr": "Tramadol",
+   "en": "Tramadol"
+  },
+  "brands": [
+   "Ultram",
+   "Tridural",
+   "Tramacet (avec acétaminophène)"
+  ],
+  "drugClass": {
+   "fr": "Analgésique opioïde faible (aussi effet sur la sérotonine)",
+   "en": "Weak opioid pain reliever (also acts on serotonin)"
+  },
+  "why": {
+   "fr": [
+    "Douleur modérée"
+   ],
+   "en": [
+    "Moderate pain"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Nausées",
+    "Étourdissements",
+    "Constipation",
+    "Somnolence",
+    "Convulsions (rare)",
+    "Syndrome sérotoninergique avec certains antidépresseurs"
+   ],
+   "en": [
+    "Nausea",
+    "Dizziness",
+    "Constipation",
+    "Drowsiness",
+    "Seizures (rare)",
+    "Serotonin syndrome with some antidepressants"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Vérifier les antidépresseurs (ISRS, IRSN)",
+    "Risque de chute"
+   ],
+   "en": [
+    "Check for antidepressants (SSRIs, SNRIs)",
+    "Fall risk"
+   ]
+  }
+ },
+ {
+  "id": "gabapentin",
+  "category": "pain",
+  "name": {
+   "fr": "Gabapentine",
+   "en": "Gabapentin"
+  },
+  "brands": [
+   "Neurontin"
+  ],
+  "drugClass": {
+   "fr": "Anticonvulsivant (utilisé pour la douleur neuropathique)",
+   "en": "Anticonvulsant (used for nerve pain)"
+  },
+  "why": {
+   "fr": [
+    "Douleur neuropathique",
+    "Épilepsie"
+   ],
+   "en": [
+    "Nerve pain",
+    "Epilepsy"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Somnolence",
+    "Étourdissements",
+    "Démarche instable",
+    "Œdème des jambes"
+   ],
+   "en": [
+    "Drowsiness",
+    "Dizziness",
+    "Unsteady walking",
+    "Leg swelling"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Risque de chute",
+    "Dose réduite si fonction rénale diminuée",
+    "Ne pas cesser brusquement"
+   ],
+   "en": [
+    "Fall risk",
+    "Lower dose with reduced kidney function",
+    "Don't stop suddenly"
+   ]
+  }
+ },
+ {
+  "id": "pregabalin",
+  "category": "pain",
+  "name": {
+   "fr": "Prégabaline",
+   "en": "Pregabalin"
+  },
+  "brands": [
+   "Lyrica"
+  ],
+  "drugClass": {
+   "fr": "Anticonvulsivant (utilisé pour la douleur neuropathique)",
+   "en": "Anticonvulsant (used for nerve pain)"
+  },
+  "why": {
+   "fr": [
+    "Douleur neuropathique (diabète, zona, moelle)",
+    "Fibromyalgie",
+    "Anxiété généralisée"
+   ],
+   "en": [
+    "Nerve pain (diabetes, shingles, spinal cord)",
+    "Fibromyalgia",
+    "Generalized anxiety"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Somnolence",
+    "Étourdissements",
+    "Gain de poids",
+    "Œdème",
+    "Vision trouble",
+    "Bouche sèche"
+   ],
+   "en": [
+    "Drowsiness",
+    "Dizziness",
+    "Weight gain",
+    "Swelling",
+    "Blurred vision",
+    "Dry mouth"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Souvent au coucher",
+    "Risque de chute",
+    "Ne pas cesser brusquement"
+   ],
+   "en": [
+    "Often at bedtime",
+    "Fall risk",
+    "Don't stop suddenly"
+   ]
+  }
+ },
+ {
+  "id": "naloxone",
+  "category": "pain",
+  "name": {
+   "fr": "Naloxone",
+   "en": "Naloxone"
+  },
+  "brands": [
+   "Narcan"
+  ],
+  "drugClass": {
+   "fr": "Antagoniste des opioïdes (antidote)",
+   "en": "Opioid antagonist (antidote)"
+  },
+  "why": {
+   "fr": [
+    "Surdose d'opioïdes (dépression respiratoire, sédation profonde)"
+   ],
+   "en": [
+    "Opioid overdose (slowed breathing, deep sedation)"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Sevrage aigu : agitation, douleur, nausées, vomissements, tachycardie"
+   ],
+   "en": [
+    "Sudden withdrawal: agitation, pain, nausea, vomiting, fast heart rate"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Agit moins longtemps que la plupart des opioïdes : surveiller la re-sédation",
+    "Suivre le protocole d'urgence"
+   ],
+   "en": [
+    "Wears off before most opioids: watch for re-sedation",
+    "Follow the emergency protocol"
+   ]
+  }
+ },
+ {
+  "id": "divalproex",
+  "category": "neuro",
+  "name": {
+   "fr": "Divalproex sodique",
+   "en": "Divalproex sodium"
+  },
+  "brands": [
+   "Epival"
+  ],
+  "drugClass": {
+   "fr": "Anticonvulsivant / thymorégulateur",
+   "en": "Anticonvulsant / mood stabilizer"
+  },
+  "why": {
+   "fr": [
+    "Épilepsie",
+    "Trouble bipolaire",
+    "Prévention de la migraine",
+    "Parfois troubles de comportement"
+   ],
+   "en": [
+    "Epilepsy",
+    "Bipolar disorder",
+    "Migraine prevention",
+    "Sometimes behaviour problems"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Nausées, troubles digestifs",
+    "Maux de tête",
+    "Tremblements",
+    "Somnolence",
+    "Gain de poids",
+    "Perte de cheveux",
+    "Rare : atteinte du foie, pancréatite, ↓ plaquettes"
+   ],
+   "en": [
+    "Nausea, stomach upset",
+    "Headache",
+    "Tremor",
+    "Drowsiness",
+    "Weight gain",
+    "Hair loss",
+    "Rare: liver damage, pancreatitis, low platelets"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Entérosoluble : ne pas écraser ni croquer",
+    "Médicament dangereux (tératogène) : manipuler selon la politique",
+    "Taux sérique, enzymes du foie, plaquettes"
+   ],
+   "en": [
+    "Enteric-coated: don't crush or chew",
+    "Hazardous drug (causes birth defects): handle per policy",
+    "Blood level, liver enzymes, platelets"
+   ]
+  }
+ },
+ {
+  "id": "levetiracetam",
+  "category": "neuro",
+  "name": {
+   "fr": "Lévétiracétam",
+   "en": "Levetiracetam"
+  },
+  "brands": [
+   "Keppra"
+  ],
+  "drugClass": {
+   "fr": "Anticonvulsivant",
+   "en": "Anticonvulsant"
+  },
+  "why": {
+   "fr": [
+    "Épilepsie (crises convulsives)"
+   ],
+   "en": [
+    "Epilepsy (seizures)"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Somnolence",
+    "Étourdissements",
+    "Fatigue",
+    "Irritabilité, changements d'humeur"
+   ],
+   "en": [
+    "Drowsiness",
+    "Dizziness",
+    "Fatigue",
+    "Irritability, mood changes"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "À heure fixe",
+    "Ne pas cesser brusquement",
+    "Signaler changements de comportement"
+   ],
+   "en": [
+    "At set times",
+    "Don't stop suddenly",
+    "Report behaviour changes"
+   ]
+  }
+ },
+ {
+  "id": "phenytoin",
+  "category": "neuro",
+  "name": {
+   "fr": "Phénytoïne",
+   "en": "Phenytoin"
+  },
+  "brands": [
+   "Dilantin"
+  ],
+  "drugClass": {
+   "fr": "Anticonvulsivant",
+   "en": "Anticonvulsant"
+  },
+  "why": {
+   "fr": [
+    "Épilepsie"
+   ],
+   "en": [
+    "Epilepsy"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Hyperplasie des gencives",
+    "Nystagmus",
+    "Démarche instable",
+    "Confusion",
+    "Éruption cutanée"
+   ],
+   "en": [
+    "Gum overgrowth",
+    "Jerky eye movements",
+    "Unsteady walking",
+    "Confusion",
+    "Rash"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Marge thérapeutique étroite : taux sérique",
+    "Hygiène buccale",
+    "Bien agiter la suspension"
+   ],
+   "en": [
+    "Narrow therapeutic range: blood level",
+    "Oral hygiene",
+    "Shake the suspension well"
+   ]
+  }
+ },
+ {
+  "id": "donepezil",
+  "category": "neuro",
+  "name": {
+   "fr": "Donépézil",
+   "en": "Donepezil"
+  },
+  "brands": [
+   "Aricept"
+  ],
+  "drugClass": {
+   "fr": "Inhibiteur de la cholinestérase",
+   "en": "Cholinesterase inhibitor"
+  },
+  "why": {
+   "fr": [
+    "Maladie d'Alzheimer (ralentir les symptômes)"
+   ],
+   "en": [
+    "Alzheimer's disease (slow the symptoms)"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Nausées",
+    "Diarrhée",
+    "Perte d'appétit",
+    "Insomnie, rêves intenses",
+    "Bradycardie"
+   ],
+   "en": [
+    "Nausea",
+    "Diarrhea",
+    "Loss of appetite",
+    "Insomnia, vivid dreams",
+    "Slow heart rate"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Habituellement au coucher (le matin si rêves gênants)",
+    "Fréquence cardiaque",
+    "Poids"
+   ],
+   "en": [
+    "Usually at bedtime (morning if dreams are a problem)",
+    "Heart rate",
+    "Weight"
+   ]
+  }
+ },
+ {
+  "id": "levodopa",
+  "category": "neuro",
+  "name": {
+   "fr": "Lévodopa-carbidopa",
+   "en": "Levodopa-carbidopa"
+  },
+  "brands": [
+   "Sinemet",
+   "Prolopa (lévodopa-bensérazide)"
+  ],
+  "drugClass": {
+   "fr": "Antiparkinsonien (précurseur de la dopamine)",
+   "en": "Parkinson's medication (dopamine precursor)"
+  },
+  "why": {
+   "fr": [
+    "Maladie de Parkinson"
+   ],
+   "en": [
+    "Parkinson's disease"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Nausées",
+    "Hypotension orthostatique",
+    "Mouvements involontaires (dyskinésies)",
+    "Hallucinations, confusion"
+   ],
+   "en": [
+    "Nausea",
+    "Orthostatic hypotension",
+    "Involuntary movements",
+    "Hallucinations, confusion"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Donner à l'heure exacte : un retard aggrave la rigidité",
+    "Les repas riches en protéines diminuent l'effet",
+    "Risque de chute"
+   ],
+   "en": [
+    "Give exactly on time: delays worsen stiffness",
+    "High-protein meals reduce the effect",
+    "Fall risk"
+   ]
+  }
+ },
+ {
+  "id": "risperidone",
+  "category": "psych",
+  "name": {
+   "fr": "Rispéridone",
+   "en": "Risperidone"
+  },
+  "brands": [
+   "Risperdal"
+  ],
+  "drugClass": {
+   "fr": "Antipsychotique atypique (2e génération)",
+   "en": "Atypical antipsychotic (2nd generation)"
+  },
+  "why": {
+   "fr": [
+    "Schizophrénie",
+    "Trouble bipolaire",
+    "Agressivité grave dans la démence (court terme)"
+   ],
+   "en": [
+    "Schizophrenia",
+    "Bipolar disorder",
+    "Severe aggression in dementia (short term)"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Symptômes extrapyramidaux (raideur, tremblements, agitation)",
+    "Somnolence",
+    "Gain de poids",
+    "Hypotension orthostatique",
+    "Agitation",
+    "Insomnie",
+    "Maux de tête"
+   ],
+   "en": [
+    "Extrapyramidal symptoms (stiffness, tremor, restlessness)",
+    "Drowsiness",
+    "Weight gain",
+    "Orthostatic hypotension",
+    "Agitation",
+    "Insomnia",
+    "Headache"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Personne âgée avec démence : risque accru d'AVC et de décès",
+    "Risque de chute",
+    "Signaler mouvements anormaux"
+   ],
+   "en": [
+    "Older adults with dementia: higher stroke and death risk",
+    "Fall risk",
+    "Report abnormal movements"
+   ]
+  }
+ },
+ {
+  "id": "quetiapine",
+  "category": "psych",
+  "name": {
+   "fr": "Quétiapine",
+   "en": "Quetiapine"
+  },
+  "brands": [
+   "Seroquel"
+  ],
+  "drugClass": {
+   "fr": "Antipsychotique atypique (2e génération)",
+   "en": "Atypical antipsychotic (2nd generation)"
+  },
+  "why": {
+   "fr": [
+    "Schizophrénie",
+    "Trouble bipolaire",
+    "Dépression (en ajout)"
+   ],
+   "en": [
+    "Schizophrenia",
+    "Bipolar disorder",
+    "Depression (add-on)"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Somnolence",
+    "Étourdissements",
+    "Hypotension orthostatique",
+    "Gain de poids",
+    "Hyperglycémie",
+    "Bouche sèche",
+    "Constipation"
+   ],
+   "en": [
+    "Drowsiness",
+    "Dizziness",
+    "Orthostatic hypotension",
+    "Weight gain",
+    "High blood sugar",
+    "Dry mouth",
+    "Constipation"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Risque de chute",
+    "Personne âgée avec démence : risque accru d'AVC et de décès",
+    "Libération prolongée (XR) : ne pas écraser"
+   ],
+   "en": [
+    "Fall risk",
+    "Older adults with dementia: higher stroke and death risk",
+    "Extended-release (XR): don't crush"
+   ]
+  }
+ },
+ {
+  "id": "olanzapine",
+  "category": "psych",
+  "name": {
+   "fr": "Olanzapine",
+   "en": "Olanzapine"
+  },
+  "brands": [
+   "Zyprexa",
+   "Zydis (orodispersible)"
+  ],
+  "drugClass": {
+   "fr": "Antipsychotique atypique (2e génération)",
+   "en": "Atypical antipsychotic (2nd generation)"
+  },
+  "why": {
+   "fr": [
+    "Schizophrénie",
+    "Trouble bipolaire",
+    "Agitation"
+   ],
+   "en": [
+    "Schizophrenia",
+    "Bipolar disorder",
+    "Agitation"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Gain de poids important",
+    "Somnolence",
+    "Hyperglycémie",
+    "Cholestérol élevé",
+    "Bouche sèche"
+   ],
+   "en": [
+    "Significant weight gain",
+    "Drowsiness",
+    "High blood sugar",
+    "High cholesterol",
+    "Dry mouth"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Poids et glycémie",
+    "Personne âgée avec démence : risque accru d'AVC et de décès"
+   ],
+   "en": [
+    "Weight and blood sugar",
+    "Older adults with dementia: higher stroke and death risk"
+   ]
+  }
+ },
+ {
+  "id": "haloperidol",
+  "category": "psych",
+  "name": {
+   "fr": "Halopéridol",
+   "en": "Haloperidol"
+  },
+  "brands": [
+   "Haldol"
+  ],
+  "drugClass": {
+   "fr": "Antipsychotique typique (1re génération)",
+   "en": "Typical antipsychotic (1st generation)"
+  },
+  "why": {
+   "fr": [
+    "Psychose",
+    "Agitation grave, délirium",
+    "Nausées en soins palliatifs"
+   ],
+   "en": [
+    "Psychosis",
+    "Severe agitation, delirium",
+    "Nausea in palliative care"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Symptômes extrapyramidaux marqués",
+    "Dyskinésie tardive",
+    "Sédation",
+    "Allongement du QT",
+    "Syndrome malin des neuroleptiques (rare : fièvre, rigidité)"
+   ],
+   "en": [
+    "Strong extrapyramidal symptoms",
+    "Tardive dyskinesia",
+    "Sedation",
+    "QT prolongation",
+    "Neuroleptic malignant syndrome (rare: fever, rigidity)"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Signaler rigidité, fièvre, mouvements anormaux",
+    "Risque de chute"
+   ],
+   "en": [
+    "Report stiffness, fever, abnormal movements",
+    "Fall risk"
+   ]
+  }
+ },
+ {
+  "id": "sertraline",
+  "category": "psych",
+  "name": {
+   "fr": "Sertraline",
+   "en": "Sertraline"
+  },
+  "brands": [
+   "Zoloft"
+  ],
+  "drugClass": {
+   "fr": "Antidépresseur (ISRS)",
+   "en": "Antidepressant (SSRI)"
+  },
+  "why": {
+   "fr": [
+    "Dépression",
+    "Troubles anxieux",
+    "Trouble obsessionnel-compulsif",
+    "Stress post-traumatique"
+   ],
+   "en": [
+    "Depression",
+    "Anxiety disorders",
+    "OCD",
+    "PTSD"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Nausées",
+    "Diarrhée",
+    "Maux de tête",
+    "Insomnie ou somnolence",
+    "Troubles sexuels",
+    "Hyponatrémie (personne âgée)",
+    "↑ risque de saignement"
+   ],
+   "en": [
+    "Nausea",
+    "Diarrhea",
+    "Headache",
+    "Insomnia or drowsiness",
+    "Sexual side effects",
+    "Low sodium (older adults)",
+    "Higher bleeding risk"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Effet complet en 4–6 semaines",
+    "Surveiller l'humeur et les idées suicidaires au début",
+    "Ne pas cesser brusquement"
+   ],
+   "en": [
+    "Full effect in 4–6 weeks",
+    "Watch mood and suicidal thoughts at the start",
+    "Don't stop suddenly"
+   ]
+  }
+ },
+ {
+  "id": "citalopram",
+  "category": "psych",
+  "name": {
+   "fr": "Citalopram",
+   "en": "Citalopram"
+  },
+  "brands": [
+   "Celexa"
+  ],
+  "drugClass": {
+   "fr": "Antidépresseur (ISRS)",
+   "en": "Antidepressant (SSRI)"
+  },
+  "why": {
+   "fr": [
+    "Dépression",
+    "Anxiété"
+   ],
+   "en": [
+    "Depression",
+    "Anxiety"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Nausées",
+    "Somnolence",
+    "Bouche sèche",
+    "Transpiration",
+    "Allongement du QT",
+    "Hyponatrémie"
+   ],
+   "en": [
+    "Nausea",
+    "Drowsiness",
+    "Dry mouth",
+    "Sweating",
+    "QT prolongation",
+    "Low sodium"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Dose limitée chez la personne âgée (risque cardiaque)",
+    "Ne pas cesser brusquement"
+   ],
+   "en": [
+    "Dose limited in older adults (heart risk)",
+    "Don't stop suddenly"
+   ]
+  }
+ },
+ {
+  "id": "escitalopram",
+  "category": "psych",
+  "name": {
+   "fr": "Escitalopram",
+   "en": "Escitalopram"
+  },
+  "brands": [
+   "Cipralex"
+  ],
+  "drugClass": {
+   "fr": "Antidépresseur (ISRS)",
+   "en": "Antidepressant (SSRI)"
+  },
+  "why": {
+   "fr": [
+    "Dépression",
+    "Anxiété généralisée",
+    "Trouble panique"
+   ],
+   "en": [
+    "Depression",
+    "Generalized anxiety",
+    "Panic disorder"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Nausées",
+    "Insomnie ou somnolence",
+    "Transpiration",
+    "Troubles sexuels",
+    "Hyponatrémie"
+   ],
+   "en": [
+    "Nausea",
+    "Insomnia or drowsiness",
+    "Sweating",
+    "Sexual side effects",
+    "Low sodium"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Surveiller l'humeur",
+    "Ne pas cesser brusquement"
+   ],
+   "en": [
+    "Watch mood",
+    "Don't stop suddenly"
+   ]
+  }
+ },
+ {
+  "id": "mirtazapine",
+  "category": "psych",
+  "name": {
+   "fr": "Mirtazapine",
+   "en": "Mirtazapine"
+  },
+  "brands": [
+   "Remeron"
+  ],
+  "drugClass": {
+   "fr": "Antidépresseur (NaSSA)",
+   "en": "Antidepressant (NaSSA)"
+  },
+  "why": {
+   "fr": [
+    "Dépression (utile si insomnie ou perte d'appétit)"
+   ],
+   "en": [
+    "Depression (helpful with insomnia or poor appetite)"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Somnolence",
+    "Appétit augmenté",
+    "Gain de poids",
+    "Bouche sèche",
+    "Constipation"
+   ],
+   "en": [
+    "Drowsiness",
+    "Increased appetite",
+    "Weight gain",
+    "Dry mouth",
+    "Constipation"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Au coucher",
+    "Risque de chute"
+   ],
+   "en": [
+    "At bedtime",
+    "Fall risk"
+   ]
+  }
+ },
+ {
+  "id": "trazodone",
+  "category": "psych",
+  "name": {
+   "fr": "Trazodone",
+   "en": "Trazodone"
+  },
+  "brands": [
+   "Desyrel"
+  ],
+  "drugClass": {
+   "fr": "Antidépresseur (souvent utilisé à faible dose pour dormir)",
+   "en": "Antidepressant (often used at low dose for sleep)"
+  },
+  "why": {
+   "fr": [
+    "Insomnie",
+    "Dépression"
+   ],
+   "en": [
+    "Insomnia",
+    "Depression"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Somnolence",
+    "Étourdissements",
+    "Hypotension orthostatique",
+    "Bouche sèche",
+    "Priapisme (rare, urgence)"
+   ],
+   "en": [
+    "Drowsiness",
+    "Dizziness",
+    "Orthostatic hypotension",
+    "Dry mouth",
+    "Priapism (rare, emergency)"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Au coucher",
+    "Risque de chute"
+   ],
+   "en": [
+    "At bedtime",
+    "Fall risk"
+   ]
+  }
+ },
+ {
+  "id": "lorazepam",
+  "category": "psych",
+  "name": {
+   "fr": "Lorazépam",
+   "en": "Lorazepam"
+  },
+  "brands": [
+   "Ativan"
+  ],
+  "drugClass": {
+   "fr": "Benzodiazépine (anxiolytique)",
+   "en": "Benzodiazepine (anti-anxiety)"
+  },
+  "why": {
+   "fr": [
+    "Anxiété",
+    "Agitation",
+    "Insomnie (court terme)",
+    "Convulsions",
+    "Sevrage d'alcool"
+   ],
+   "en": [
+    "Anxiety",
+    "Agitation",
+    "Insomnia (short term)",
+    "Seizures",
+    "Alcohol withdrawal"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Somnolence",
+    "Confusion",
+    "Chutes",
+    "Dépression respiratoire (surtout avec opioïdes)",
+    "Dépendance"
+   ],
+   "en": [
+    "Drowsiness",
+    "Confusion",
+    "Falls",
+    "Slowed breathing (especially with opioids)",
+    "Dependence"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Peut être donné sublingual",
+    "Risque de chute, surtout chez la personne âgée",
+    "Drogue contrôlée : registre"
+   ],
+   "en": [
+    "Can be given under the tongue",
+    "Fall risk, especially in older adults",
+    "Controlled drug: register"
+   ]
+  }
+ },
+ {
+  "id": "zopiclone",
+  "category": "psych",
+  "name": {
+   "fr": "Zopiclone",
+   "en": "Zopiclone"
+  },
+  "brands": [
+   "Imovane"
+  ],
+  "drugClass": {
+   "fr": "Hypnotique (somnifère)",
+   "en": "Hypnotic (sleeping pill)"
+  },
+  "why": {
+   "fr": [
+    "Insomnie (court terme)"
+   ],
+   "en": [
+    "Insomnia (short term)"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Goût amer ou métallique",
+    "Somnolence le lendemain",
+    "Confusion",
+    "Chutes"
+   ],
+   "en": [
+    "Bitter or metallic taste",
+    "Next-day drowsiness",
+    "Confusion",
+    "Falls"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Donner juste avant le coucher",
+    "Risque de chute"
+   ],
+   "en": [
+    "Give right at bedtime",
+    "Fall risk"
+   ]
+  }
+ },
+ {
+  "id": "lithium",
+  "category": "psych",
+  "name": {
+   "fr": "Lithium",
+   "en": "Lithium"
+  },
+  "brands": [
+   "Carbolith",
+   "Lithane"
+  ],
+  "drugClass": {
+   "fr": "Thymorégulateur",
+   "en": "Mood stabilizer"
+  },
+  "why": {
+   "fr": [
+    "Trouble bipolaire"
+   ],
+   "en": [
+    "Bipolar disorder"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Tremblements fins",
+    "Soif, mictions fréquentes",
+    "Nausées",
+    "Gain de poids",
+    "Hypothyroïdie",
+    "Toxicité : diarrhée, vomissements, gros tremblements, démarche instable, confusion"
+   ],
+   "en": [
+    "Fine tremor",
+    "Thirst, frequent urination",
+    "Nausea",
+    "Weight gain",
+    "Underactive thyroid",
+    "Toxicity: diarrhea, vomiting, coarse tremor, unsteady walking, confusion"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Marge thérapeutique étroite : lithémie",
+    "Hydratation et sel constants",
+    "AINS, diurétiques et IECA augmentent le taux"
+   ],
+   "en": [
+    "Narrow therapeutic range: lithium level",
+    "Keep fluids and salt steady",
+    "NSAIDs, diuretics and ACE inhibitors raise the level"
+   ]
+  }
+ },
+ {
+  "id": "salbutamol",
+  "category": "resp",
+  "name": {
+   "fr": "Salbutamol",
+   "en": "Salbutamol"
+  },
+  "brands": [
+   "Ventolin",
+   "Airomir"
+  ],
+  "drugClass": {
+   "fr": "Bronchodilatateur bêta-2 à courte action (BACA)",
+   "en": "Short-acting beta-2 bronchodilator (SABA)"
+  },
+  "why": {
+   "fr": [
+    "Soulagement rapide du bronchospasme (asthme, MPOC) — médicament de secours"
+   ],
+   "en": [
+    "Quick relief of bronchospasm (asthma, COPD) — rescue inhaler"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Tremblements",
+    "Tachycardie, palpitations",
+    "Nervosité",
+    "Hypokaliémie"
+   ],
+   "en": [
+    "Tremor",
+    "Fast heart rate, palpitations",
+    "Nervousness",
+    "Low potassium"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Agiter l'inhalateur; utiliser une chambre d'espacement",
+    "FC et respiration avant et après"
+   ],
+   "en": [
+    "Shake the inhaler; use a spacer",
+    "HR and breathing before and after"
+   ]
+  }
+ },
+ {
+  "id": "ipratropium",
+  "category": "resp",
+  "name": {
+   "fr": "Ipratropium",
+   "en": "Ipratropium"
+  },
+  "brands": [
+   "Atrovent"
+  ],
+  "drugClass": {
+   "fr": "Bronchodilatateur anticholinergique à courte action",
+   "en": "Short-acting anticholinergic bronchodilator"
+  },
+  "why": {
+   "fr": [
+    "MPOC",
+    "Bronchospasme (souvent avec le salbutamol)"
+   ],
+   "en": [
+    "COPD",
+    "Bronchospasm (often with salbutamol)"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Bouche sèche",
+    "Toux",
+    "Goût amer",
+    "Vision trouble si contact avec les yeux"
+   ],
+   "en": [
+    "Dry mouth",
+    "Cough",
+    "Bitter taste",
+    "Blurred vision if it gets in the eyes"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Éviter le contact avec les yeux (nébulisation)"
+   ],
+   "en": [
+    "Keep out of the eyes (nebulizer)"
+   ]
+  }
+ },
+ {
+  "id": "tiotropium",
+  "category": "resp",
+  "name": {
+   "fr": "Tiotropium",
+   "en": "Tiotropium"
+  },
+  "brands": [
+   "Spiriva"
+  ],
+  "drugClass": {
+   "fr": "Anticholinergique à longue action (AMLA)",
+   "en": "Long-acting anticholinergic (LAMA)"
+  },
+  "why": {
+   "fr": [
+    "MPOC (traitement d'entretien quotidien)"
+   ],
+   "en": [
+    "COPD (daily maintenance)"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Bouche sèche",
+    "Constipation",
+    "Rétention urinaire",
+    "Mal de gorge"
+   ],
+   "en": [
+    "Dry mouth",
+    "Constipation",
+    "Urinary retention",
+    "Sore throat"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Une fois par jour",
+    "Pas un médicament de secours",
+    "Capsules HandiHaler : à inhaler, ne pas avaler"
+   ],
+   "en": [
+    "Once a day",
+    "Not a rescue inhaler",
+    "HandiHaler capsules: inhale, don't swallow"
+   ]
+  }
+ },
+ {
+  "id": "fluticasone-salmeterol",
+  "category": "resp",
+  "name": {
+   "fr": "Fluticasone + salmétérol",
+   "en": "Fluticasone + salmeterol"
+  },
+  "brands": [
+   "Advair"
+  ],
+  "drugClass": {
+   "fr": "Corticostéroïde inhalé + bronchodilatateur à longue action",
+   "en": "Inhaled corticosteroid + long-acting bronchodilator"
+  },
+  "why": {
+   "fr": [
+    "Asthme",
+    "MPOC (traitement d'entretien)"
+   ],
+   "en": [
+    "Asthma",
+    "COPD (maintenance)"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Muguet (candidose buccale)",
+    "Voix rauque",
+    "Maux de tête",
+    "Tremblements",
+    "Pneumonie (MPOC)"
+   ],
+   "en": [
+    "Oral thrush",
+    "Hoarse voice",
+    "Headache",
+    "Tremor",
+    "Pneumonia (COPD)"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Rincer la bouche et cracher après",
+    "Pas un médicament de secours"
+   ],
+   "en": [
+    "Rinse mouth and spit after use",
+    "Not a rescue inhaler"
+   ]
+  }
+ },
+ {
+  "id": "amoxicillin",
+  "category": "infection",
+  "name": {
+   "fr": "Amoxicilline",
+   "en": "Amoxicillin"
+  },
+  "brands": [
+   "Amoxil"
+  ],
+  "drugClass": {
+   "fr": "Antibiotique (pénicilline)",
+   "en": "Antibiotic (penicillin)"
+  },
+  "why": {
+   "fr": [
+    "Infections ORL (oreilles, gorge, sinus)",
+    "Pneumonie",
+    "Infections urinaires",
+    "H. pylori"
+   ],
+   "en": [
+    "Ear, throat and sinus infections",
+    "Pneumonia",
+    "Urinary infections",
+    "H. pylori"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Diarrhée",
+    "Nausées",
+    "Éruption cutanée",
+    "Allergie (anaphylaxie rare)"
+   ],
+   "en": [
+    "Diarrhea",
+    "Nausea",
+    "Rash",
+    "Allergy (rare anaphylaxis)"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Vérifier l'allergie à la pénicilline AVANT",
+    "Respecter l'horaire et terminer le traitement"
+   ],
+   "en": [
+    "Check for penicillin allergy BEFORE",
+    "Keep to the schedule and finish the course"
+   ]
+  }
+ },
+ {
+  "id": "amox-clav",
+  "category": "infection",
+  "name": {
+   "fr": "Amoxicilline-clavulanate",
+   "en": "Amoxicillin-clavulanate"
+  },
+  "brands": [
+   "Clavulin"
+  ],
+  "drugClass": {
+   "fr": "Antibiotique (pénicilline + inhibiteur de bêta-lactamase)",
+   "en": "Antibiotic (penicillin + beta-lactamase inhibitor)"
+  },
+  "why": {
+   "fr": [
+    "Pneumonie",
+    "Sinusite",
+    "Infections de la peau et morsures",
+    "Infections urinaires"
+   ],
+   "en": [
+    "Pneumonia",
+    "Sinusitis",
+    "Skin infections and bites",
+    "Urinary infections"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Diarrhée (fréquente)",
+    "Nausées",
+    "Éruption cutanée",
+    "Infection à levures"
+   ],
+   "en": [
+    "Diarrhea (common)",
+    "Nausea",
+    "Rash",
+    "Yeast infection"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Vérifier l'allergie à la pénicilline",
+    "Avec un repas"
+   ],
+   "en": [
+    "Check for penicillin allergy",
+    "Give with a meal"
+   ]
+  }
+ },
+ {
+  "id": "cephalexin",
+  "category": "infection",
+  "name": {
+   "fr": "Céphalexine",
+   "en": "Cephalexin"
+  },
+  "brands": [
+   "Keflex"
+  ],
+  "drugClass": {
+   "fr": "Antibiotique (céphalosporine 1re génération)",
+   "en": "Antibiotic (1st-generation cephalosporin)"
+  },
+  "why": {
+   "fr": [
+    "Infections de la peau (cellulite)",
+    "Infections urinaires",
+    "Infections des os"
+   ],
+   "en": [
+    "Skin infections (cellulitis)",
+    "Urinary infections",
+    "Bone infections"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Diarrhée",
+    "Nausées",
+    "Éruption cutanée"
+   ],
+   "en": [
+    "Diarrhea",
+    "Nausea",
+    "Rash"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Vérifier les allergies (faible risque croisé avec la pénicilline)"
+   ],
+   "en": [
+    "Check allergies (small cross-reaction risk with penicillin)"
+   ]
+  }
+ },
+ {
+  "id": "ciprofloxacin",
+  "category": "infection",
+  "name": {
+   "fr": "Ciprofloxacine",
+   "en": "Ciprofloxacin"
+  },
+  "brands": [
+   "Cipro"
+  ],
+  "drugClass": {
+   "fr": "Antibiotique (fluoroquinolone)",
+   "en": "Antibiotic (fluoroquinolone)"
+  },
+  "why": {
+   "fr": [
+    "Infections urinaires compliquées",
+    "Infections digestives",
+    "Infections des os"
+   ],
+   "en": [
+    "Complicated urinary infections",
+    "Gut infections",
+    "Bone infections"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Nausées",
+    "Diarrhée",
+    "Étourdissements, confusion",
+    "Photosensibilité",
+    "Tendinite ou rupture de tendon",
+    "Allongement du QT"
+   ],
+   "en": [
+    "Nausea",
+    "Diarrhea",
+    "Dizziness, confusion",
+    "Sun sensitivity",
+    "Tendon pain or rupture",
+    "QT prolongation"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Séparer du calcium, fer, magnésium et antiacides (2 h avant ou 6 h après)",
+    "Signaler douleur au tendon (surtout personne âgée ou sous cortico)"
+   ],
+   "en": [
+    "Separate from calcium, iron, magnesium and antacids (2 h before or 6 h after)",
+    "Report tendon pain (especially older adults or on steroids)"
+   ]
+  }
+ },
+ {
+  "id": "nitrofurantoin",
+  "category": "infection",
+  "name": {
+   "fr": "Nitrofurantoïne",
+   "en": "Nitrofurantoin"
+  },
+  "brands": [
+   "Macrobid"
+  ],
+  "drugClass": {
+   "fr": "Antibiotique urinaire",
+   "en": "Urinary antibiotic"
+  },
+  "why": {
+   "fr": [
+    "Cystite (infection urinaire basse)"
+   ],
+   "en": [
+    "Bladder infection (cystitis)"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Nausées",
+    "Maux de tête",
+    "Urine brun foncé (sans danger)",
+    "Réactions pulmonaires (rare)"
+   ],
+   "en": [
+    "Nausea",
+    "Headache",
+    "Dark brown urine (harmless)",
+    "Lung reactions (rare)"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Avec nourriture",
+    "Évité si la fonction rénale est diminuée"
+   ],
+   "en": [
+    "Give with food",
+    "Avoided with reduced kidney function"
+   ]
+  }
+ },
+ {
+  "id": "smx-tmp",
+  "category": "infection",
+  "name": {
+   "fr": "Sulfaméthoxazole-triméthoprime",
+   "en": "Sulfamethoxazole-trimethoprim"
+  },
+  "brands": [
+   "Septra",
+   "Bactrim"
+  ],
+  "drugClass": {
+   "fr": "Antibiotique (sulfamide)",
+   "en": "Antibiotic (sulfonamide)"
+  },
+  "why": {
+   "fr": [
+    "Infections urinaires",
+    "Infections de la peau (SARM)",
+    "Prévention de la pneumonie à Pneumocystis"
+   ],
+   "en": [
+    "Urinary infections",
+    "Skin infections (MRSA)",
+    "Preventing Pneumocystis pneumonia"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Éruption cutanée (peut être grave)",
+    "Nausées",
+    "Hyperkaliémie",
+    "Photosensibilité"
+   ],
+   "en": [
+    "Rash (can be severe)",
+    "Nausea",
+    "High potassium",
+    "Sun sensitivity"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Vérifier l'allergie aux sulfas",
+    "Bien s'hydrater",
+    "Interaction importante avec la warfarine"
+   ],
+   "en": [
+    "Check for sulfa allergy",
+    "Drink plenty of fluids",
+    "Major interaction with warfarin"
+   ]
+  }
+ },
+ {
+  "id": "metronidazole",
+  "category": "infection",
+  "name": {
+   "fr": "Métronidazole",
+   "en": "Metronidazole"
+  },
+  "brands": [
+   "Flagyl"
+  ],
+  "drugClass": {
+   "fr": "Antibiotique / antiparasitaire",
+   "en": "Antibiotic / antiparasitic"
+  },
+  "why": {
+   "fr": [
+    "C. difficile",
+    "Infections abdominales (anaérobies)",
+    "Vaginose bactérienne"
+   ],
+   "en": [
+    "C. difficile",
+    "Abdominal infections (anaerobes)",
+    "Bacterial vaginosis"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Goût métallique",
+    "Nausées",
+    "Urine foncée",
+    "Neuropathie (long terme)"
+   ],
+   "en": [
+    "Metallic taste",
+    "Nausea",
+    "Dark urine",
+    "Nerve damage (long term)"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Aucun alcool pendant et 48 h après (réaction violente)"
+   ],
+   "en": [
+    "No alcohol during and for 48 h after (severe reaction)"
+   ]
+  }
+ },
+ {
+  "id": "vancomycin",
+  "category": "infection",
+  "name": {
+   "fr": "Vancomycine",
+   "en": "Vancomycin"
+  },
+  "brands": [
+   "Vancocin"
+  ],
+  "drugClass": {
+   "fr": "Antibiotique (glycopeptide)",
+   "en": "Antibiotic (glycopeptide)"
+  },
+  "why": {
+   "fr": [
+    "Infections à SARM (IV)",
+    "C. difficile (par la bouche)"
+   ],
+   "en": [
+    "MRSA infections (IV)",
+    "C. difficile (by mouth)"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Atteinte des reins",
+    "Atteinte de l'audition",
+    "Syndrome de l'homme rouge (rougeur si perfusion trop rapide)"
+   ],
+   "en": [
+    "Kidney damage",
+    "Hearing damage",
+    "Red man syndrome (flushing if infused too fast)"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "IV : perfuser lentement (au moins 60 min)",
+    "Taux sérique et créatinine"
+   ],
+   "en": [
+    "IV: infuse slowly (at least 60 min)",
+    "Blood level and creatinine"
+   ]
+  }
+ },
+ {
+  "id": "thiamine",
+  "category": "vitamins",
+  "name": {
+   "fr": "Thiamine (vitamine B1)",
+   "en": "Thiamine (vitamin B1)"
+  },
+  "brands": [],
+  "drugClass": {
+   "fr": "Vitamine",
+   "en": "Vitamin"
+  },
+  "why": {
+   "fr": [
+    "Carence en B1",
+    "Alcoolisme (prévenir l'encéphalopathie de Wernicke)",
+    "Malnutrition"
+   ],
+   "en": [
+    "Vitamin B1 deficiency",
+    "Alcohol use disorder (prevent Wernicke's encephalopathy)",
+    "Malnutrition"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Rares",
+    "Réaction au site d'injection (IM/IV)"
+   ],
+   "en": [
+    "Rare",
+    "Injection site reaction (IM/IV)"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Souvent donnée AVANT le glucose chez la personne alcoolique"
+   ],
+   "en": [
+    "Often given BEFORE glucose in people with alcohol use disorder"
+   ]
+  }
+ },
+ {
+  "id": "vitamin-d",
+  "category": "vitamins",
+  "name": {
+   "fr": "Cholécalciférol (vitamine D3)",
+   "en": "Cholecalciferol (vitamin D3)"
+  },
+  "brands": [
+   "D-Tabs",
+   "Euro-D"
+  ],
+  "drugClass": {
+   "fr": "Vitamine",
+   "en": "Vitamin"
+  },
+  "why": {
+   "fr": [
+    "Prévenir ou traiter la carence en vitamine D",
+    "Ostéoporose (avec calcium)",
+    "Prévention des chutes et fractures"
+   ],
+   "en": [
+    "Prevent or treat low vitamin D",
+    "Osteoporosis (with calcium)",
+    "Preventing falls and fractures"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Rares",
+    "Surdose : hypercalcémie (nausées, constipation, confusion)"
+   ],
+   "en": [
+    "Rare",
+    "Overdose: high calcium (nausea, constipation, confusion)"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Vérifier la fréquence : 1 000 UI est souvent quotidien, 10 000 ou 50 000 UI souvent hebdomadaire ou mensuel"
+   ],
+   "en": [
+    "Check the frequency: 1,000 IU is often daily; 10,000 or 50,000 IU is often weekly or monthly"
+   ]
+  }
+ },
+ {
+  "id": "vitamin-b12",
+  "category": "vitamins",
+  "name": {
+   "fr": "Cyanocobalamine (vitamine B12)",
+   "en": "Cyanocobalamin (vitamin B12)"
+  },
+  "brands": [],
+  "drugClass": {
+   "fr": "Vitamine",
+   "en": "Vitamin"
+  },
+  "why": {
+   "fr": [
+    "Carence en B12",
+    "Anémie pernicieuse",
+    "Carence due à la metformine ou aux IPP"
+   ],
+   "en": [
+    "Vitamin B12 deficiency",
+    "Pernicious anemia",
+    "Deficiency from metformin or PPIs"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Rares",
+    "Douleur au site d'injection"
+   ],
+   "en": [
+    "Rare",
+    "Injection site pain"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Par la bouche, sublingual ou injection (IM/SC) selon l'ordonnance"
+   ],
+   "en": [
+    "By mouth, under the tongue or by injection (IM/SC) per the order"
+   ]
+  }
+ },
+ {
+  "id": "folic-acid",
+  "category": "vitamins",
+  "name": {
+   "fr": "Acide folique (vitamine B9)",
+   "en": "Folic acid (vitamin B9)"
+  },
+  "brands": [],
+  "drugClass": {
+   "fr": "Vitamine",
+   "en": "Vitamin"
+  },
+  "why": {
+   "fr": [
+    "Carence en folates, anémie",
+    "Grossesse",
+    "Avec le méthotrexate",
+    "Alcoolisme"
+   ],
+   "en": [
+    "Folate deficiency, anemia",
+    "Pregnancy",
+    "With methotrexate",
+    "Alcohol use disorder"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Rares"
+   ],
+   "en": [
+    "Rare"
+   ]
+  },
+  "watch": {
+   "fr": [],
+   "en": []
+  }
+ },
+ {
+  "id": "calcium",
+  "category": "vitamins",
+  "name": {
+   "fr": "Carbonate de calcium",
+   "en": "Calcium carbonate"
+  },
+  "brands": [
+   "Caltrate",
+   "Os-Cal",
+   "Tums"
+  ],
+  "drugClass": {
+   "fr": "Supplément de calcium / antiacide",
+   "en": "Calcium supplement / antacid"
+  },
+  "why": {
+   "fr": [
+    "Ostéoporose (avec vitamine D)",
+    "Faible apport en calcium",
+    "Brûlures d'estomac"
+   ],
+   "en": [
+    "Osteoporosis (with vitamin D)",
+    "Low calcium intake",
+    "Heartburn"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Constipation",
+    "Ballonnements",
+    "Gaz"
+   ],
+   "en": [
+    "Constipation",
+    "Bloating",
+    "Gas"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Avec les repas",
+    "Séparer de la lévothyroxine, du fer et des quinolones"
+   ],
+   "en": [
+    "With meals",
+    "Separate from levothyroxine, iron and quinolones"
+   ]
+  }
+ },
+ {
+  "id": "ferrous-sulfate",
+  "category": "vitamins",
+  "name": {
+   "fr": "Sulfate ferreux (fer)",
+   "en": "Ferrous sulfate (iron)"
+  },
+  "brands": [
+   "Fer-In-Sol",
+   "Palafer (fumarate)"
+  ],
+  "drugClass": {
+   "fr": "Supplément de fer",
+   "en": "Iron supplement"
+  },
+  "why": {
+   "fr": [
+    "Anémie par manque de fer"
+   ],
+   "en": [
+    "Iron-deficiency anemia"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Selles noires (normal)",
+    "Constipation",
+    "Nausées",
+    "Douleurs d'estomac"
+   ],
+   "en": [
+    "Black stools (normal)",
+    "Constipation",
+    "Nausea",
+    "Stomach pain"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Mieux absorbé à jeun ou avec de la vitamine C; avec nourriture si mal toléré",
+    "Séparer du calcium, des antiacides, de la lévothyroxine",
+    "Liquide : paille (tache les dents)"
+   ],
+   "en": [
+    "Best absorbed on an empty stomach or with vitamin C; with food if not tolerated",
+    "Separate from calcium, antacids, levothyroxine",
+    "Liquid: use a straw (stains teeth)"
+   ]
+  }
+ },
+ {
+  "id": "potassium-chloride",
+  "category": "vitamins",
+  "name": {
+   "fr": "Chlorure de potassium (KCl)",
+   "en": "Potassium chloride (KCl)"
+  },
+  "brands": [
+   "K-Dur",
+   "Micro-K",
+   "K-Lyte"
+  ],
+  "drugClass": {
+   "fr": "Supplément d'électrolyte",
+   "en": "Electrolyte supplement"
+  },
+  "why": {
+   "fr": [
+    "Hypokaliémie (K+ bas), souvent avec les diurétiques"
+   ],
+   "en": [
+    "Low potassium, often with diuretics"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Irritation d'estomac",
+    "Nausées",
+    "Diarrhée",
+    "Hyperkaliémie (trop de K+)"
+   ],
+   "en": [
+    "Stomach irritation",
+    "Nausea",
+    "Diarrhea",
+    "High potassium (too much)"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Avec nourriture et un grand verre d'eau",
+    "Libération prolongée : ne pas écraser",
+    "IV : médicament de haute alerte, jamais en bolus",
+    "Potassium sanguin"
+   ],
+   "en": [
+    "With food and a full glass of water",
+    "Extended-release: don't crush",
+    "IV: high-alert, never as a push",
+    "Blood potassium"
+   ]
+  }
+ },
+ {
+  "id": "tamsulosin",
+  "category": "other",
+  "name": {
+   "fr": "Tamsulosine",
+   "en": "Tamsulosin"
+  },
+  "brands": [
+   "Flomax"
+  ],
+  "drugClass": {
+   "fr": "Alpha-bloquant",
+   "en": "Alpha blocker"
+  },
+  "why": {
+   "fr": [
+    "Hypertrophie bénigne de la prostate (difficulté à uriner)",
+    "Aider à passer un calcul rénal"
+   ],
+   "en": [
+    "Enlarged prostate (trouble urinating)",
+    "Helping pass a kidney stone"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Hypotension orthostatique",
+    "Étourdissements",
+    "Congestion nasale",
+    "Troubles de l'éjaculation"
+   ],
+   "en": [
+    "Orthostatic hypotension",
+    "Dizziness",
+    "Stuffy nose",
+    "Ejaculation problems"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Ne pas ouvrir ni écraser la capsule",
+    "30 min après le même repas chaque jour",
+    "Risque de chute"
+   ],
+   "en": [
+    "Don't open or crush the capsule",
+    "30 min after the same meal each day",
+    "Fall risk"
+   ]
+  }
+ },
+ {
+  "id": "oxybutynin",
+  "category": "other",
+  "name": {
+   "fr": "Oxybutynine",
+   "en": "Oxybutynin"
+  },
+  "brands": [
+   "Ditropan"
+  ],
+  "drugClass": {
+   "fr": "Anticholinergique (antispasmodique urinaire)",
+   "en": "Anticholinergic (bladder antispasmodic)"
+  },
+  "why": {
+   "fr": [
+    "Vessie hyperactive (urgences, incontinence)"
+   ],
+   "en": [
+    "Overactive bladder (urgency, incontinence)"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Bouche sèche",
+    "Constipation",
+    "Vision trouble",
+    "Rétention urinaire",
+    "Confusion chez la personne âgée"
+   ],
+   "en": [
+    "Dry mouth",
+    "Constipation",
+    "Blurred vision",
+    "Urinary retention",
+    "Confusion in older adults"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Prudence chez la personne âgée (effets anticholinergiques)"
+   ],
+   "en": [
+    "Caution in older adults (anticholinergic effects)"
+   ]
+  }
+ },
+ {
+  "id": "allopurinol",
+  "category": "other",
+  "name": {
+   "fr": "Allopurinol",
+   "en": "Allopurinol"
+  },
+  "brands": [
+   "Zyloprim"
+  ],
+  "drugClass": {
+   "fr": "Inhibiteur de la xanthine oxydase (baisse l'acide urique)",
+   "en": "Xanthine oxidase inhibitor (lowers uric acid)"
+  },
+  "why": {
+   "fr": [
+    "Prévention des crises de goutte",
+    "Acide urique élevé"
+   ],
+   "en": [
+    "Preventing gout attacks",
+    "High uric acid"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Éruption cutanée (peut être grave)",
+    "Troubles digestifs",
+    "Crise de goutte au début du traitement"
+   ],
+   "en": [
+    "Rash (can be severe)",
+    "Stomach upset",
+    "Gout flare when starting"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Signaler toute éruption cutanée immédiatement",
+    "Bien s'hydrater",
+    "Après un repas"
+   ],
+   "en": [
+    "Report any rash right away",
+    "Drink plenty of fluids",
+    "After a meal"
+   ]
+  }
+ },
+ {
+  "id": "alendronate",
+  "category": "other",
+  "name": {
+   "fr": "Alendronate",
+   "en": "Alendronate"
+  },
+  "brands": [
+   "Fosamax"
+  ],
+  "drugClass": {
+   "fr": "Bisphosphonate",
+   "en": "Bisphosphonate"
+  },
+  "why": {
+   "fr": [
+    "Ostéoporose (prévenir les fractures)"
+   ],
+   "en": [
+    "Osteoporosis (preventing fractures)"
+   ]
+  },
+  "sideEffects": {
+   "fr": [
+    "Brûlures de l'œsophage",
+    "Brûlures d'estomac",
+    "Douleurs musculaires ou osseuses",
+    "Ostéonécrose de la mâchoire (rare)"
+   ],
+   "en": [
+    "Esophagus irritation",
+    "Heartburn",
+    "Muscle or bone pain",
+    "Jaw bone damage (rare)"
+   ]
+  },
+  "watch": {
+   "fr": [
+    "Le matin à jeun avec un grand verre d'eau",
+    "Rester assis ou debout 30 min et ne rien manger avant",
+    "Souvent 1 fois par semaine"
+   ],
+   "en": [
+    "In the morning on an empty stomach with a full glass of water",
+    "Stay upright 30 min and eat nothing first",
+    "Often once a week"
+   ]
+  }
+ }
+]
