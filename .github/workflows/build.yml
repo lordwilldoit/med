@@ -14,7 +14,9 @@ defaults:
 
 jobs:
   build:
-    runs-on: macos-15
+    # Intel runner: the arm64 macOS pool was too busy to pick up jobs (Nov 2026).
+    runs-on: macos-15-intel
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
 
