@@ -38,6 +38,19 @@ final class DrugsTests: XCTestCase {
         XCTAssertEqual(DrugLibrary.search(drugs, query: "").count, drugs.count)
     }
 
+    /// Every medication on the stage FADM must be findable by the name printed on it.
+    func testStageFADMMedsAreSearchable() {
+        let fadm = ["tazocin": "piperacillin-tazobactam", "salazopyrin": "sulfasalazine",
+                    "noromby": "enoxaparin", "crestor": "rosuvastatin", "monocor": "bisoprolol",
+                    "eliquis": "apixaban", "biguanide": "metformin", "ventolin": "salbutamol",
+                    "combivent": "ipratropium-salbutamol", "morphine": "morphine", "atasol": "acetaminophen",
+                    "ativan": "lorazepam", "deltasone": "prednisone", "glycérine": "glycerin",
+                    "dulcolax": "bisacodyl", "novorapid": "insulin-rapid", "codéine": "codeine"]
+        for (query, id) in fadm {
+            XCTAssertTrue(DrugLibrary.search(drugs, query: query).contains { $0.id == id }, query)
+        }
+    }
+
     func testCustomDrugStorePersists() {
         let suite = "test-\(UUID().uuidString)"
         let defaults = UserDefaults(suiteName: suite)!

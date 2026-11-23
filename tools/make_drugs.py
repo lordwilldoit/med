@@ -654,6 +654,200 @@ D("alendronate", "other", "Alendronate", "Alendronate", "Fosamax",
   "Le matin à jeun avec un grand verre d'eau | Rester assis ou debout 30 min et ne rien manger avant | Souvent 1 fois par semaine",
   "In the morning on an empty stomach with a full glass of water | Stay upright 30 min and eat nothing first | Often once a week")
 
+# ================= Added in v3 (from the stage FADM + common unit meds) =================
+
+# --- From the FADM ---
+D("piperacillin-tazobactam", "infection", "Pipéracilline-tazobactam", "Piperacillin-tazobactam", "Tazocin",
+  "Antibiotique (pénicilline à large spectre + inhibiteur de bêta-lactamase)", "Antibiotic (broad-spectrum penicillin + beta-lactamase inhibitor)",
+  "Pneumonie grave ou acquise à l'hôpital | Infections abdominales compliquées | Infections graves de la peau | Sepsis, neutropénie fébrile",
+  "Severe or hospital-acquired pneumonia | Complicated abdominal infections | Severe skin infections | Sepsis, febrile neutropenia",
+  "Diarrhée (risque de C. difficile) | Nausées | Éruption cutanée | Irritation de la veine au site IV | Hypokaliémie | Atteinte des reins (surtout avec la vancomycine)",
+  "Diarrhea (C. difficile risk) | Nausea | Rash | Vein irritation at the IV site | Low potassium | Kidney damage (especially with vancomycin)",
+  "Vérifier l'allergie à la pénicilline AVANT | Respecter les heures exactes (ex. q6h) | Site IV et signes d'allergie pendant la perfusion",
+  "Check for penicillin allergy BEFORE | Keep to exact times (e.g. q6h) | IV site and allergy signs during the infusion")
+D("sulfasalazine", "other", "Sulfasalazine", "Sulfasalazine", "Salazopyrin | Salazopyrin En-Tabs",
+  "Anti-inflammatoire (aminosalicylé) / antirhumatismal (ARMM)", "Anti-inflammatory (aminosalicylate) / antirheumatic (DMARD)",
+  "Polyarthrite rhumatoïde | Colite ulcéreuse | Maladie de Crohn (côlon)",
+  "Rheumatoid arthritis | Ulcerative colitis | Crohn's disease (colon)",
+  "Nausées, perte d'appétit | Maux de tête | Urine (et parfois peau) jaune-orange, sans danger | Photosensibilité | Éruption cutanée | Baisse des globules (rare)",
+  "Nausea, loss of appetite | Headache | Yellow-orange urine (sometimes skin), harmless | Sun sensitivity | Rash | Low blood counts (rare)",
+  "Vérifier l'allergie aux sulfas et à l'AAS | Entérosoluble : ne pas écraser | Après les repas avec un grand verre d'eau | Formule sanguine et foie",
+  "Check for sulfa and ASA allergy | Enteric-coated: don't crush | After meals with a full glass of water | Blood counts and liver")
+D("ipratropium-salbutamol", "resp", "Ipratropium + salbutamol", "Ipratropium + salbutamol", "Combivent",
+  "Bronchodilatateurs combinés (anticholinergique + bêta-2 à courte action)", "Combined bronchodilators (anticholinergic + short-acting beta-2)",
+  "MPOC | Bronchospasme", "COPD | Bronchospasm",
+  "Bouche sèche | Tremblements | Tachycardie, palpitations | Toux | Nervosité",
+  "Dry mouth | Tremor | Fast heart rate, palpitations | Cough | Nervousness",
+  "Nébulisation : éviter le contact avec les yeux | FC, FR, saturation et respiration avant et après",
+  "Nebulizer: keep out of the eyes | HR, RR, oxygen saturation and breathing before and after")
+D("glycerin", "gi", "Glycérine (suppositoire)", "Glycerin (suppository)", "",
+  "Laxatif (suppositoire)", "Laxative (suppository)",
+  "Constipation", "Constipation",
+  "Irritation rectale | Crampes", "Rectal irritation | Cramps",
+  "Agit en 15–60 min | Patient couché sur le côté gauche; insérer contre la paroi du rectum, pas dans les selles | Noter le résultat",
+  "Works in 15–60 min | Patient on the left side; insert against the rectal wall, not into stool | Record the result")
+D("bisacodyl", "gi", "Bisacodyl", "Bisacodyl", "Dulcolax",
+  "Laxatif stimulant", "Stimulant laxative",
+  "Constipation | Préparation de l'intestin avant un examen", "Constipation | Bowel prep before a procedure",
+  "Crampes abdominales | Diarrhée | Irritation rectale (suppositoire)",
+  "Stomach cramps | Diarrhea | Rectal irritation (suppository)",
+  "Suppositoire : agit en 15–60 min | Comprimé : agit en 6–12 h, entérosoluble, ne pas écraser; pas avec du lait ou un antiacide (1 h) | Noter le résultat",
+  "Suppository: works in 15–60 min | Tablet: works in 6–12 h, enteric-coated, don't crush; not with milk or antacids (1 h) | Record the result")
+D("codeine", "pain", "Codéine", "Codeine", "Tylenol #3 (avec acétaminophène)",
+  "Analgésique opioïde faible / antitussif", "Weak opioid pain reliever / cough suppressant",
+  "Douleur légère à modérée | Toux", "Mild to moderate pain | Cough",
+  "Constipation | Nausées | Somnolence | Dépression respiratoire",
+  "Constipation | Nausea | Drowsiness | Slowed breathing",
+  "Le foie la transforme en morphine; l'effet varie beaucoup d'une personne à l'autre | Une « allergie » à la codéine est souvent une intolérance (nausées) : vérifier le type de réaction | Tylenol #3 contient de l'acétaminophène",
+  "The liver turns it into morphine; the effect varies a lot between people | A codeine \"allergy\" is often an intolerance (nausea): check what reaction it was | Tylenol #3 contains acetaminophen")
+
+# --- Other common unit meds ---
+D("magnesium-hydroxide", "gi", "Hydroxyde de magnésium (lait de magnésie)", "Magnesium hydroxide (milk of magnesia)", "Lait de magnésie | Phillips",
+  "Laxatif osmotique / antiacide", "Osmotic laxative / antacid",
+  "Constipation | Brûlures d'estomac", "Constipation | Heartburn",
+  "Diarrhée | Crampes | Magnésium élevé en cas d'insuffisance rénale",
+  "Diarrhea | Cramps | High magnesium with kidney failure",
+  "Évité en insuffisance rénale | Agit en 30 min à 6 h | Séparer des autres médicaments (2 h)",
+  "Avoided with kidney failure | Works in 30 min to 6 h | Separate from other meds (2 h)")
+D("oxazepam", "psych", "Oxazépam", "Oxazepam", "Serax",
+  "Benzodiazépine (anxiolytique)", "Benzodiazepine (anti-anxiety)",
+  "Anxiété | Insomnie | Sevrage d'alcool", "Anxiety | Insomnia | Alcohol withdrawal",
+  "Somnolence | Confusion | Chutes | Dépendance",
+  "Drowsiness | Confusion | Falls | Dependence",
+  "Souvent choisi chez la personne âgée ou si le foie est atteint | Risque de chute | Drogue contrôlée",
+  "Often chosen for older adults or liver disease | Fall risk | Controlled drug")
+D("clonazepam", "psych", "Clonazépam", "Clonazepam", "Rivotril",
+  "Benzodiazépine (longue action)", "Benzodiazepine (long-acting)",
+  "Trouble panique | Épilepsie | Anxiété", "Panic disorder | Epilepsy | Anxiety",
+  "Somnolence | Démarche instable | Confusion | Chutes | Dépendance",
+  "Drowsiness | Unsteady walking | Confusion | Falls | Dependence",
+  "Ne pas cesser brusquement (risque de convulsions) | Risque de chute | Drogue contrôlée",
+  "Don't stop suddenly (seizure risk) | Fall risk | Controlled drug")
+D("temazepam", "psych", "Témazépam", "Temazepam", "Restoril",
+  "Benzodiazépine (hypnotique)", "Benzodiazepine (sleeping pill)",
+  "Insomnie (court terme)", "Insomnia (short term)",
+  "Somnolence le lendemain | Confusion | Chutes | Dépendance",
+  "Next-day drowsiness | Confusion | Falls | Dependence",
+  "Au coucher | Risque de chute | Drogue contrôlée", "At bedtime | Fall risk | Controlled drug")
+D("venlafaxine", "psych", "Venlafaxine", "Venlafaxine", "Effexor XR",
+  "Antidépresseur (IRSN)", "Antidepressant (SNRI)",
+  "Dépression | Anxiété généralisée | Trouble panique", "Depression | Generalized anxiety | Panic disorder",
+  "Nausées | Transpiration | Hausse de la TA | Insomnie | Troubles sexuels | Symptômes d'arrêt marqués",
+  "Nausea | Sweating | Higher blood pressure | Insomnia | Sexual side effects | Strong withdrawal symptoms",
+  "TA | Avec nourriture | Ne pas cesser brusquement | Surveiller l'humeur",
+  "Blood pressure | With food | Don't stop suddenly | Watch mood")
+D("duloxetine", "psych", "Duloxétine", "Duloxetine", "Cymbalta",
+  "Antidépresseur (IRSN)", "Antidepressant (SNRI)",
+  "Dépression | Anxiété généralisée | Douleur neuropathique (diabète) | Douleur chronique",
+  "Depression | Generalized anxiety | Diabetic nerve pain | Chronic pain",
+  "Nausées | Bouche sèche | Somnolence | Constipation | Transpiration",
+  "Nausea | Dry mouth | Drowsiness | Constipation | Sweating",
+  "Ne pas ouvrir ni écraser la capsule | Ne pas cesser brusquement",
+  "Don't open or crush the capsule | Don't stop suddenly")
+D("bupropion", "psych", "Bupropion", "Bupropion", "Wellbutrin | Zyban",
+  "Antidépresseur (IRND)", "Antidepressant (NDRI)",
+  "Dépression | Aide à l'arrêt du tabac", "Depression | Help to quit smoking",
+  "Insomnie | Bouche sèche | Maux de tête | Agitation | Risque de convulsions",
+  "Insomnia | Dry mouth | Headache | Agitation | Seizure risk",
+  "Pas au coucher (insomnie) | Ne pas écraser | Évité si convulsions ou trouble alimentaire",
+  "Not at bedtime (insomnia) | Don't crush | Avoided with seizures or eating disorders")
+D("ceftriaxone", "infection", "Ceftriaxone", "Ceftriaxone", "Rocephin",
+  "Antibiotique (céphalosporine 3e génération)", "Antibiotic (3rd-generation cephalosporin)",
+  "Pneumonie | Pyélonéphrite | Méningite | Sepsis | Gonorrhée",
+  "Pneumonia | Kidney infection | Meningitis | Sepsis | Gonorrhea",
+  "Diarrhée | Éruption cutanée | Douleur au site d'injection | Hausse des enzymes du foie",
+  "Diarrhea | Rash | Injection site pain | Raised liver enzymes",
+  "Vérifier les allergies | Ne pas donner en même temps qu'une solution IV contenant du calcium | IM : souvent diluée avec de la lidocaïne",
+  "Check allergies | Don't give at the same time as IV solutions containing calcium | IM: often mixed with lidocaine")
+D("azithromycin", "infection", "Azithromycine", "Azithromycin", "Zithromax",
+  "Antibiotique (macrolide)", "Antibiotic (macrolide)",
+  "Pneumonie | Exacerbation de MPOC | Infections ORL | Chlamydia",
+  "Pneumonia | COPD flare | Ear, nose and throat infections | Chlamydia",
+  "Diarrhée | Nausées | Douleurs abdominales | Allongement du QT",
+  "Diarrhea | Nausea | Stomach pain | QT prolongation",
+  "Traitement court (souvent 3–5 jours) | Prudence avec les autres médicaments qui allongent le QT",
+  "Short course (often 3–5 days) | Caution with other drugs that prolong QT")
+D("amiodarone", "cardio", "Amiodarone", "Amiodarone", "Cordarone",
+  "Antiarythmique", "Antiarrhythmic",
+  "Fibrillation auriculaire | Arythmies ventriculaires", "Atrial fibrillation | Ventricular arrhythmias",
+  "Bradycardie | Hypotension (IV) | Photosensibilité, peau gris-bleu | Troubles de la thyroïde | Toxicité pulmonaire | Atteinte du foie",
+  "Slow heart rate | Low blood pressure (IV) | Sun sensitivity, blue-grey skin | Thyroid problems | Lung toxicity | Liver damage",
+  "FC et ECG | Thyroïde, foie et poumons (long terme) | Augmente l'effet de la warfarine et de la digoxine",
+  "HR and ECG | Thyroid, liver and lungs (long term) | Increases the effect of warfarin and digoxin")
+D("candesartan", "cardio", "Candésartan", "Candesartan", "Atacand",
+  "Antagoniste des récepteurs de l'angiotensine (ARA)", "Angiotensin receptor blocker (ARB)",
+  "HTA | Insuffisance cardiaque", "High blood pressure | Heart failure",
+  "Étourdissements | Hyperkaliémie | Hypotension",
+  "Dizziness | High potassium | Low blood pressure",
+  "TA, potassium et créatinine", "BP, potassium and creatinine")
+D("fentanyl-patch", "pain", "Fentanyl (timbre)", "Fentanyl (patch)", "Duragesic",
+  "Analgésique opioïde puissant (transdermique)", "Strong opioid pain reliever (skin patch)",
+  "Douleur chronique sévère et stable, chez un patient déjà habitué aux opioïdes",
+  "Severe, stable chronic pain in a patient already used to opioids",
+  "Constipation | Nausées | Somnolence | Dépression respiratoire | Irritation de la peau",
+  "Constipation | Nausea | Drowsiness | Slowed breathing | Skin irritation",
+  "Changé habituellement aux 72 h : retirer l'ancien timbre | La chaleur (fièvre, coussin chauffant) augmente l'absorption | Ne pas couper | Plier côté collant ensemble pour jeter; noter date et site",
+  "Usually changed every 72 h: remove the old patch | Heat (fever, heating pad) increases absorption | Don't cut | Fold sticky sides together to discard; record date and site")
+D("budesonide-formoterol", "resp", "Budésonide + formotérol", "Budesonide + formoterol", "Symbicort",
+  "Corticostéroïde inhalé + bronchodilatateur à longue action", "Inhaled corticosteroid + long-acting bronchodilator",
+  "Asthme | MPOC", "Asthma | COPD",
+  "Muguet (candidose buccale) | Voix rauque | Tremblements | Palpitations",
+  "Oral thrush | Hoarse voice | Tremor | Palpitations",
+  "Rincer la bouche et cracher après | Dans l'asthme, parfois aussi utilisé au besoin (selon l'ordonnance)",
+  "Rinse mouth and spit after | In asthma, sometimes also used as needed (per the order)")
+D("montelukast", "resp", "Montélukast", "Montelukast", "Singulair",
+  "Antagoniste des leucotriènes", "Leukotriene receptor antagonist",
+  "Asthme (prévention) | Rhinite allergique", "Asthma (prevention) | Allergies (allergic rhinitis)",
+  "Maux de tête | Douleur abdominale | Changements d'humeur, cauchemars",
+  "Headache | Stomach pain | Mood changes, nightmares",
+  "Le soir | Signaler changements d'humeur ou de comportement | Pas pour une crise aiguë",
+  "In the evening | Report mood or behaviour changes | Not for an acute attack")
+D("memantine", "neuro", "Mémantine", "Memantine", "Ebixa",
+  "Antagoniste des récepteurs NMDA", "NMDA receptor antagonist",
+  "Maladie d'Alzheimer modérée à sévère", "Moderate to severe Alzheimer's disease",
+  "Étourdissements | Maux de tête | Confusion | Constipation | Somnolence",
+  "Dizziness | Headache | Confusion | Constipation | Drowsiness",
+  "Dose réduite si fonction rénale diminuée | Risque de chute", "Lower dose with reduced kidney function | Fall risk")
+D("insulin-nph", "endo", "Insuline NPH (action intermédiaire)", "NPH insulin (intermediate-acting)", "Humulin N | Novolin ge NPH",
+  "Insuline à action intermédiaire", "Intermediate-acting insulin",
+  "Diabète : contrôle de base de la glycémie (souvent 1–2 fois par jour)", "Diabetes: background blood sugar control (often once or twice a day)",
+  "Hypoglycémie (surtout au pic, 4–12 h après) | Réaction au site d'injection | Gain de poids",
+  "Low blood sugar (especially at peak, 4–12 h after) | Injection site reaction | Weight gain",
+  "Médicament de haute alerte : double vérification | Suspension trouble : rouler doucement entre les mains pour mélanger, ne pas secouer | Glycémie",
+  "High-alert drug: double check | Cloudy suspension: roll gently between the hands to mix, don't shake | Blood sugar")
+D("glucagon", "endo", "Glucagon", "Glucagon", "GlucaGen | Baqsimi (nasal)",
+  "Hormone qui augmente la glycémie", "Hormone that raises blood sugar",
+  "Hypoglycémie sévère quand le patient ne peut rien prendre par la bouche", "Severe low blood sugar when the patient can't take anything by mouth",
+  "Nausées | Vomissements", "Nausea | Vomiting",
+  "Suivre le protocole d'hypoglycémie | Coucher sur le côté (risque de vomissement) | Donner des glucides par la bouche dès que le patient peut avaler",
+  "Follow the low blood sugar protocol | Turn on the side (vomiting risk) | Give carbohydrates by mouth as soon as the patient can swallow")
+D("dexamethasone", "endo", "Dexaméthasone", "Dexamethasone", "Decadron",
+  "Corticostéroïde (puissant)", "Corticosteroid (potent)",
+  "Œdème cérébral | Nausées (chimiothérapie, soins palliatifs) | Inflammation grave | Croup",
+  "Brain swelling | Nausea (chemo, palliative care) | Severe inflammation | Croup",
+  "Hyperglycémie | Insomnie, agitation | Appétit augmenté | Infections | Rétention d'eau",
+  "High blood sugar | Insomnia, agitation | Increased appetite | Infections | Fluid retention",
+  "Le matin avec nourriture | Glycémie | Ne pas cesser brusquement après un usage prolongé",
+  "In the morning with food | Blood sugar | Don't stop suddenly after long-term use")
+D("magnesium-oxide", "vitamins", "Oxyde de magnésium", "Magnesium oxide", "Mag-Ox",
+  "Supplément de minéral", "Mineral supplement",
+  "Magnésium bas (hypomagnésémie)", "Low magnesium",
+  "Diarrhée | Crampes", "Diarrhea | Cramps",
+  "Séparer de la lévothyroxine et des quinolones | Prudence en insuffisance rénale",
+  "Separate from levothyroxine and quinolones | Caution with kidney failure")
+D("nicotine-patch", "other", "Nicotine (timbre)", "Nicotine (patch)", "Nicoderm | Habitrol",
+  "Thérapie de remplacement de la nicotine", "Nicotine replacement therapy",
+  "Arrêt du tabac | Prévenir le sevrage de nicotine à l'hôpital", "Quitting smoking | Preventing nicotine withdrawal in hospital",
+  "Irritation de la peau | Rêves intenses, insomnie | Nausées | Maux de tête",
+  "Skin irritation | Vivid dreams, insomnia | Nausea | Headache",
+  "Retirer l'ancien timbre | Alterner les sites | Peut être retiré au coucher si troubles de sommeil (selon l'ordonnance)",
+  "Remove the old patch | Rotate sites | Can be removed at bedtime for sleep problems (per the order)")
+
+# --- Extra brand names seen on the FADM ---
+_extra_brands = {"enoxaparin": ["Noromby"], "prednisone": ["Deltasone", "Winpred"]}
+for _d in drugs:
+    _d["brands"] += [b for b in _extra_brands.get(_d["id"], []) if b not in _d["brands"]]
+
 # ---------------- checks ----------------
 ids = [d["id"] for d in drugs]
 assert len(ids) == len(set(ids)), "duplicate ids"
